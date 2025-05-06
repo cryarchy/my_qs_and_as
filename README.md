@@ -46,11 +46,11 @@ dx serve --platform desktop
 ```mermaid
 flowchart
     Home[Home]
-    click Home href "markdown/home.md"
+    click Home "https://github.com/cryarchy/my_qs_and_as/blob/main/markdown/home.md"
     Login[Login]
-    click Login "login.md"
+    click Login "https://github.com/cryarchy/my_qs_and_as/blob/main/markdown/login.md"
     SignUp[Sign Up]
-    click SignUp "signup.md"
+    click SignUp "https://github.com/cryarchy/my_qs_and_as/blob/main/markdown/signup.md"
     LgHome[Home]
 
     Home --> Login
@@ -58,19 +58,13 @@ flowchart
     Login --> LgHome
 
     AllQns[View All Questions]
-    click AllQns "all-questions.md"
+    click AllQns "https://github.com/cryarchy/my_qs_and_as/blob/main/markdown/all-questions.md"
     AddQn[Add Question]
-    click AddQn "add-question.md"
+    click AddQn "https://github.com/cryarchy/my_qs_and_as/blob/main/markdown/add-question.md"
     QnCats[Question Categories]
-    click QnCats "qn-categories.md"
+    click QnCats "https://github.com/cryarchy/my_qs_and_as/blob/main/markdown/qn-categories.md"
 
     LgHome --> AllQns
     LgHome --> AddQn
     LgHome --> QnCats
-
-    click Node1 "https://example.com"
-    click Node2 "https://another-example.com"
-
-    A[Click Me to Visit Google] --> B[Another Node]
-    click A "https://www.google.com" "Go to Google"
 ```
