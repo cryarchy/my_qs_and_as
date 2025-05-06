@@ -46,7 +46,7 @@ dx serve --platform desktop
 ```mermaid
 flowchart
     Home[Home]
-    click Home "../blob/main/markdown/home.md"
+    click Home href "markdown/home.md"
     Login[Login]
     click Login "login.md"
     SignUp[Sign Up]
