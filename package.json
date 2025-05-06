@@ -1,0 +1,15 @@
+{
+  "name": "my_qs_and_as",
+  "version": "0.1.0",
+  "description": "A simple application that allows you to set-up question and answers in an easy to manage manner.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Samuel Mwangi <crystalflow.mwangi@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@tailwindcss/cli": "^4.1.5",
+    "tailwindcss": "^4.1.5"
+  }
+}
