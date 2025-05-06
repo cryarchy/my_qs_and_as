@@ -3,7 +3,7 @@
 ## Index
 
 -   [Signup process](#signup-process)
--   [Low fidelity page design](#low-fidelity-page-design)
+-   [Low fidelity design](#low-fidelity-design)
 
 ## Signup process
 
@@ -38,6 +38,6 @@ flowchart
 
 ```
 
-## Low fidelity page design
+## Low fidelity design
 
 ![Signup page design](../wireframes/signup.png)
