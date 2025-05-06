@@ -46,7 +46,7 @@ dx serve --platform desktop
 ```mermaid
 flowchart
     Home[Home]
-    click Home "README.md"
+    click Home "documentation/home.md"
     Login[Login]
     click Login "documentation/login.md"
     SignUp[Sign Up]
