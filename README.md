@@ -46,11 +46,11 @@ dx serve --platform desktop
 ```mermaid
 flowchart
     Home[Home]
-    click Home "documentation/home.md"
+    click Home "home.md"
     Login[Login]
-    click Login "documentation/login.md"
+    click Login "login.md"
     SignUp[Sign Up]
-    click SignUp "documentation/signup.md"
+    click SignUp "signup.md"
     LgHome[Home]
 
     Home --> Login
@@ -58,11 +58,11 @@ flowchart
     Login --> LgHome
 
     AllQns[View All Questions]
-    click AllQns "documentation/all-questions.md"
+    click AllQns "all-questions.md"
     AddQn[Add Question]
-    click AddQn "documentation/add-question.md"
+    click AddQn "add-question.md"
     QnCats[Question Categories]
-    click QnCats "documentation/qn-categories.md"
+    click QnCats "qn-categories.md"
 
     LgHome --> AllQns
     LgHome --> AddQn
