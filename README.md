@@ -51,7 +51,8 @@ flowchart
     click Login "https://github.com/cryarchy/my_qs_and_as/blob/main/markdown/login.md"
     SignUp[Sign Up]
     click SignUp "https://github.com/cryarchy/my_qs_and_as/blob/main/markdown/signup.md"
-    LgHome[Home]
+    LgHome["Home (Logged In Menu)"]
+    click LgHome "https://github.com/cryarchy/my_qs_and_as/blob/main/markdown/sidenav.md"
 
     Home --> Login
     Home --> SignUp
@@ -59,12 +60,12 @@ flowchart
 
     AllQns[View All Questions]
     click AllQns "https://github.com/cryarchy/my_qs_and_as/blob/main/markdown/all-questions.md"
-    AddQn[Add Question]
-    click AddQn "https://github.com/cryarchy/my_qs_and_as/blob/main/markdown/add-question.md"
+    NewQA[New Question]
+    click NewQA "https://github.com/cryarchy/my_qs_and_as/blob/main/markdown/new-qa.md"
     QnCats[Question Categories]
     click QnCats "https://github.com/cryarchy/my_qs_and_as/blob/main/markdown/qn-categories.md"
 
     LgHome --> AllQns
-    LgHome --> AddQn
+    LgHome --> NewQA
     LgHome --> QnCats
 ```
