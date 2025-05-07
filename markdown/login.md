@@ -4,6 +4,10 @@
 
 -   [Low fidelity design](#low-fidelity-design)
 
+## Page link
+
+-   [Sign Up](../markdown/signup.md)
+
 ## Login process
 
 ```mermaid

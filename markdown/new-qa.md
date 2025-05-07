@@ -5,6 +5,10 @@
 -   [Add Q&A process](#add-qa-process)
 -   [Low fidelity design](#low-fidelity-design)
 
+## Page link
+
+-   [Side Nav](../markdown/sidenav.md)
+
 ## Add Q&A process
 
 ```mermaid
@@ -27,11 +31,8 @@ flowchart
     NewCollection --> |yes| AddNewCollection
     AddNewCollection --> QAView
     SelectCollection --> |no| QAView
-
-
-
 ```
 
 ## Low fidelity design
 
-![Sidenav design](../wireframes/sidenav.png)
+![New Q&A page design](../wireframes/new_qa.png)
