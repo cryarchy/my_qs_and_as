@@ -41,7 +41,7 @@ To run for a different platform, use the `--platform platform` flag. E.g.
 dx serve --platform desktop
 ```
 
-### Sitemap
+### Follow along
 
 ```mermaid
 flowchart
@@ -51,21 +51,7 @@ flowchart
     click Login "https://github.com/cryarchy/my_qs_and_as/blob/main/markdown/login.md"
     SignUp[Sign Up]
     click SignUp "https://github.com/cryarchy/my_qs_and_as/blob/main/markdown/signup.md"
-    LgHome["Home (Logged In Menu)"]
-    click LgHome "https://github.com/cryarchy/my_qs_and_as/blob/main/markdown/sidenav.md"
 
     Home --> Login
     Home --> SignUp
-    Login --> LgHome
-
-    AllQns[View All Questions]
-    click AllQns "https://github.com/cryarchy/my_qs_and_as/blob/main/markdown/all-questions.md"
-    NewQA[New Question]
-    click NewQA "https://github.com/cryarchy/my_qs_and_as/blob/main/markdown/new-qa.md"
-    QnCats[Question Categories]
-    click QnCats "https://github.com/cryarchy/my_qs_and_as/blob/main/markdown/qn-categories.md"
-
-    LgHome --> AllQns
-    LgHome --> NewQA
-    LgHome --> QnCats
 ```
