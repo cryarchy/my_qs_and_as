@@ -4,7 +4,7 @@
 
 -   [Low fidelity design](#low-fidelity-design)
 
-## Page link
+## Page links
 
 -   [Sign Up](../markdown/signup.md)
 

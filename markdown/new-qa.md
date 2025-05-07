@@ -5,7 +5,7 @@
 -   [Add Q&A process](#add-qa-process)
 -   [Low fidelity design](#low-fidelity-design)
 
-## Page link
+## Page links
 
 -   [Side Nav](../markdown/sidenav.md)
 

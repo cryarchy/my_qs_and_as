@@ -4,7 +4,7 @@
 
 -   [Low fidelity design](#low-fidelity-design)
 
-## Page link
+## Page links
 
 -   [Login](../markdown/login.md)
 

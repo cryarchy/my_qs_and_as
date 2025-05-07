@@ -36,7 +36,7 @@ flowchart
     CompleteProfile --> SignupComplete
 ```
 
-## Page link
+## Page links
 
 -   [Login](../markdown/login.md)
 
