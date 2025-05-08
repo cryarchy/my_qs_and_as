@@ -10,4 +10,4 @@
 
 ## Low fidelity design
 
-![Collections page design](../wireframes/all_qas.png)
+![Collections page design](../wireframes/collections.png)
