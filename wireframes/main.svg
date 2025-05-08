@@ -25,11 +25,11 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
-     inkscape:zoom="0.99266662"
-     inkscape:cx="4379.6174"
-     inkscape:cy="487.07188"
-     inkscape:window-width="3840"
-     inkscape:window-height="2088"
+     inkscape:zoom="1.110542"
+     inkscape:cx="228.26691"
+     inkscape:cy="1395.2646"
+     inkscape:window-width="2560"
+     inkscape:window-height="1528"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -160,6 +160,24 @@
        margin="0"
        bleed="0"
        inkscape:label="qa_view" />
+    <inkscape:page
+       x="5388.9927"
+       y="0"
+       width="375"
+       height="879.28998"
+       id="page333"
+       margin="0"
+       bleed="0"
+       inkscape:label="collections" />
+    <inkscape:page
+       x="5773.9927"
+       y="0"
+       width="375"
+       height="879.28998"
+       id="page334"
+       margin="0"
+       bleed="0"
+       inkscape:label="all_qas" />
   </sodipodi:namedview>
   <defs
      id="defs1" />
@@ -469,63 +487,59 @@
          id="tspan25"
          x="135.64137"
          y="729.19073">Header font size = 28px</tspan></text>
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linejoin:bevel;stroke-opacity:1"
+       id="rect25"
+       width="150.89799"
+       height="48"
+       x="18.532572"
+       y="1244.6945"
+       ry="24"
+       rx="24" />
+    <text
+       xml:space="preserve"
+       style="font-size:16px;line-height:1.7;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#e1e3e3;fill-opacity:1;stroke:#000000;stroke-linejoin:bevel;stroke-opacity:1"
+       x="32.47007"
+       y="1274.3273"
+       id="text26"><tspan
+         sodipodi:role="line"
+         id="tspan26"
+         x="32.47007"
+         y="1274.3273"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;fill:#000000;stroke:none">Button Rounded</tspan></text>
     <g
-       id="g26"
-       transform="translate(-248.17327,612.30692)">
+       id="g27"
+       transform="translate(-522.43452,605.50705)">
+      <circle
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linejoin:bevel;stroke-opacity:1"
+         id="path26"
+         cx="549.48926"
+         cy="611.4436"
+         r="7.5" />
+      <circle
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.999997;stroke-linejoin:bevel;stroke-opacity:1"
+         id="circle26"
+         cx="549.48926"
+         cy="611.4436"
+         r="5.5000019" />
+    </g>
+    <g
+       id="g28"
+       transform="translate(-542.27674,594.94386)">
+      <path
+         id="rect28"
+         style="fill:none;stroke:#000000;stroke-width:2;stroke-linejoin:miter;stroke-dasharray:none"
+         d="m 639.33594,616.71297 -12.00942,9.30141 -3.74076,-4.82983"
+         sodipodi:nodetypes="ccc" />
       <rect
          style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linejoin:bevel;stroke-opacity:1"
-         id="rect25"
-         width="150.89799"
-         height="48"
-         x="266.70584"
-         y="632.38751"
-         ry="24"
-         rx="24" />
-      <text
-         xml:space="preserve"
-         style="font-size:16px;line-height:1.7;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#e1e3e3;fill-opacity:1;stroke:#000000;stroke-linejoin:bevel;stroke-opacity:1"
-         x="280.64334"
-         y="662.02032"
-         id="text26"><tspan
-           sodipodi:role="line"
-           id="tspan26"
-           x="280.64334"
-           y="662.02032"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;fill:#000000;stroke:none">Button Rounded</tspan></text>
-      <g
-         id="g27"
-         transform="translate(-274.26125,-6.7998657)">
-        <circle
-           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linejoin:bevel;stroke-opacity:1"
-           id="path26"
-           cx="549.48926"
-           cy="611.4436"
-           r="7.5" />
-        <circle
-           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.999997;stroke-linejoin:bevel;stroke-opacity:1"
-           id="circle26"
-           cx="549.48926"
-           cy="611.4436"
-           r="5.5000019" />
-      </g>
-      <g
-         id="g28"
-         transform="translate(-294.10347,-17.363057)">
-        <path
-           id="rect28"
-           style="fill:none;stroke:#000000;stroke-width:2;stroke-linejoin:miter;stroke-dasharray:none"
-           d="m 639.33594,616.71297 -12.00942,9.30141 -3.74076,-4.82983"
-           sodipodi:nodetypes="ccc" />
-        <rect
-           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linejoin:bevel;stroke-opacity:1"
-           id="rect27"
-           width="23"
-           height="23.000002"
-           x="619.54333"
-           y="609.72125"
-           rx="0"
-           ry="0" />
-      </g>
+         id="rect27"
+         width="23"
+         height="23.000002"
+         x="619.54333"
+         y="609.72125"
+         rx="0"
+         ry="0" />
     </g>
     <g
        id="g16">
@@ -1817,30 +1831,30 @@
            id="tspan322">time on every application. Your perfect </tspan></tspan><tspan
          x="780"
          y="302.21269"
-         id="tspan335"><tspan
+         id="tspan338"><tspan
            style="-inkscape-font-specification:'Open Sans, Normal';fill:#000000;stroke:none"
            id="tspan328">answers, organized and AI</tspan><tspan
            style="-inkscape-font-specification:'Open Sans, Normal';fill:#000000;stroke:none"
-           id="tspan333">‑</tspan><tspan
+           id="tspan335">‑</tspan><tspan
            style="-inkscape-font-specification:'Open Sans, Normal';fill:#000000;stroke:none"
-           id="tspan334">optimized, are </tspan></tspan><tspan
+           id="tspan337">optimized, are </tspan></tspan><tspan
          x="780"
          y="329.4127"
-         id="tspan337"><tspan
+         id="tspan341"><tspan
            style="-inkscape-font-specification:'Open Sans, Normal';fill:#000000;stroke:none"
-           id="tspan336">waiting.
+           id="tspan340">waiting.
 </tspan></tspan><tspan
          x="780"
          y="356.61271"
-         id="tspan339"><tspan
+         id="tspan345"><tspan
            style="-inkscape-font-specification:'Open Sans, Normal';fill:#000000;stroke:none"
-           id="tspan338">
+           id="tspan343">
 </tspan></tspan><tspan
          x="780"
          y="383.81272"
-         id="tspan341"><tspan
+         id="tspan348"><tspan
            style="-inkscape-font-specification:'Open Sans, Normal';fill:#000000;stroke:none"
-           id="tspan340">Let’s get you set up!</tspan></tspan></text>
+           id="tspan346">Let’s get you set up!</tspan></tspan></text>
     <g
        id="g116"
        transform="translate(785.05216,-73.88613)">
@@ -1953,21 +1967,21 @@
        id="text124"><tspan
          x="1165"
          y="386.21259"
-         id="tspan343"><tspan
+         id="tspan350"><tspan
            style="-inkscape-font-specification:'Open Sans, Normal';fill:#000000;stroke:none"
-           id="tspan342">We have sent an email to </tspan></tspan><tspan
+           id="tspan349">We have sent an email to </tspan></tspan><tspan
          x="1165"
          y="413.41261"
-         id="tspan346"><tspan
+         id="tspan356"><tspan
            style="font-weight:bold"
-           id="tspan344">email@example.com</tspan><tspan
+           id="tspan354">email@example.com</tspan><tspan
            style="-inkscape-font-specification:'Open Sans, Normal';fill:#000000;stroke:none"
-           id="tspan345">. Click on the link or </tspan></tspan><tspan
+           id="tspan355">. Click on the link or </tspan></tspan><tspan
          x="1165"
          y="440.61262"
-         id="tspan348"><tspan
+         id="tspan358"><tspan
            style="-inkscape-font-specification:'Open Sans, Normal';fill:#000000;stroke:none"
-           id="tspan347">provide the code in the email.</tspan></tspan></text>
+           id="tspan357">provide the code in the email.</tspan></tspan></text>
     <g
        id="g127"
        transform="translate(1245.3138,153.8634)">
@@ -2256,201 +2270,201 @@
        id="text146"><tspan
          x="1935"
          y="28.157906"
-         id="tspan351"><tspan
+         id="tspan361"><tspan
            style="font-weight:bold"
-           id="tspan349">Subject:</tspan><tspan
+           id="tspan359">Subject:</tspan><tspan
            style="-inkscape-font-specification:'Open Sans, Normal';fill:#000000;stroke:none"
-           id="tspan350"> Email Confirmation Required to </tspan></tspan><tspan
+           id="tspan360"> Email Confirmation Required to </tspan></tspan><tspan
          x="1935"
          y="55.357907"
-         id="tspan353"><tspan
+         id="tspan363"><tspan
            style="-inkscape-font-specification:'Open Sans, Normal';fill:#000000;stroke:none"
-           id="tspan352">Complete Your Registration
+           id="tspan362">Complete Your Registration
 </tspan></tspan><tspan
          x="1935"
          y="82.557908"
-         id="tspan355"><tspan
+         id="tspan366"><tspan
            style="-inkscape-font-specification:'Open Sans, Normal';fill:#000000;stroke:none"
-           id="tspan354">
+           id="tspan364">
 </tspan></tspan><tspan
          x="1935"
          y="109.75791"
-         id="tspan358"><tspan
+         id="tspan369"><tspan
            style="font-weight:bold"
-           id="tspan356">Content:</tspan><tspan
+           id="tspan367">Content:</tspan><tspan
            style="-inkscape-font-specification:'Open Sans, Normal';fill:#000000;stroke:none"
-           id="tspan357">
+           id="tspan368">
 </tspan></tspan><tspan
          x="1935"
          y="136.95791"
-         id="tspan360"><tspan
+         id="tspan382"><tspan
            style="-inkscape-font-specification:'Open Sans, Normal';fill:#000000;stroke:none"
-           id="tspan359">
+           id="tspan381">
 </tspan></tspan><tspan
          x="1935"
          y="164.15791"
-         id="tspan362"><tspan
+         id="tspan385"><tspan
            style="-inkscape-font-specification:'Open Sans, Normal';fill:#000000;stroke:none"
-           id="tspan361">Hey there!
+           id="tspan383">Hey there!
 </tspan></tspan><tspan
          x="1935"
          y="191.3579"
-         id="tspan364"><tspan
+         id="tspan388"><tspan
            style="-inkscape-font-specification:'Open Sans, Normal';fill:#000000;stroke:none"
-           id="tspan363">
+           id="tspan387">
 </tspan></tspan><tspan
          x="1935"
          y="218.5579"
-         id="tspan366"><tspan
+         id="tspan391"><tspan
            style="-inkscape-font-specification:'Open Sans, Normal';fill:#000000;stroke:none"
-           id="tspan365">Thank you for registering with Question &amp; </tspan></tspan><tspan
+           id="tspan389">Thank you for registering with Question &amp; </tspan></tspan><tspan
          x="1935"
          y="245.7579"
-         id="tspan368"><tspan
+         id="tspan397"><tspan
            style="-inkscape-font-specification:'Open Sans, Normal';fill:#000000;stroke:none"
-           id="tspan367">Answer Vault. To complete the setup of your </tspan></tspan><tspan
+           id="tspan392">Answer Vault. To complete the setup of your </tspan></tspan><tspan
          x="1935"
          y="272.95789"
-         id="tspan370"><tspan
+         id="tspan400"><tspan
            style="-inkscape-font-specification:'Open Sans, Normal';fill:#000000;stroke:none"
-           id="tspan369">account and verify your email address, please </tspan></tspan><tspan
+           id="tspan399">account and verify your email address, please </tspan></tspan><tspan
          x="1935"
          y="300.15791"
-         id="tspan372"><tspan
+         id="tspan402"><tspan
            style="-inkscape-font-specification:'Open Sans, Normal';fill:#000000;stroke:none"
-           id="tspan371">confirm by clicking the link below:
+           id="tspan401">confirm by clicking the link below:
 </tspan></tspan><tspan
          x="1935"
          y="327.35792"
-         id="tspan374"><tspan
+         id="tspan405"><tspan
            style="-inkscape-font-specification:'Open Sans, Normal';fill:#000000;stroke:none"
-           id="tspan373">
+           id="tspan404">
 </tspan></tspan><tspan
          x="1935"
          y="354.55793"
-         id="tspan376"><tspan
+         id="tspan409"><tspan
            style="-inkscape-font-specification:'Open Sans, Normal';fill:#000000;stroke:none"
-           id="tspan375">
+           id="tspan406">
 </tspan></tspan><tspan
          x="1935"
          y="381.75794"
-         id="tspan378"><tspan
+         id="tspan412"><tspan
            style="-inkscape-font-specification:'Open Sans, Normal';fill:#000000;stroke:none"
-           id="tspan377">
+           id="tspan410">
 </tspan></tspan><tspan
          x="1935"
          y="408.95796"
-         id="tspan380"><tspan
+         id="tspan415"><tspan
            style="-inkscape-font-specification:'Open Sans, Normal';fill:#000000;stroke:none"
-           id="tspan379">Alternatively, you may enter the following </tspan></tspan><tspan
+           id="tspan414">Alternatively, you may enter the following </tspan></tspan><tspan
          x="1935"
          y="436.15797"
-         id="tspan382"><tspan
+         id="tspan417"><tspan
            style="-inkscape-font-specification:'Open Sans, Normal';fill:#000000;stroke:none"
-           id="tspan381">confirmation code into the registration form:
+           id="tspan416">confirmation code into the registration form:
 </tspan></tspan><tspan
          x="1935"
          y="463.35798"
-         id="tspan384"><tspan
+         id="tspan419"><tspan
            style="-inkscape-font-specification:'Open Sans, Normal';fill:#000000;stroke:none"
-           id="tspan383">
+           id="tspan418">
 </tspan></tspan><tspan
          x="1935"
          y="490.55799"
-         id="tspan387"><tspan
+         id="tspan422"><tspan
            style="font-weight:bold"
-           id="tspan385">XXX XXX</tspan><tspan
+           id="tspan420">XXX XXX</tspan><tspan
            style="-inkscape-font-specification:'Open Sans, Normal';fill:#000000;stroke:none"
-           id="tspan386">
+           id="tspan421">
 </tspan></tspan><tspan
          x="1935"
          y="517.758"
-         id="tspan389"><tspan
+         id="tspan424"><tspan
            style="-inkscape-font-specification:'Open Sans, Normal';fill:#000000;stroke:none"
-           id="tspan388">
+           id="tspan423">
 </tspan></tspan><tspan
          x="1935"
          y="544.95802"
-         id="tspan391"><tspan
+         id="tspan426"><tspan
            style="-inkscape-font-specification:'Open Sans, Normal';fill:#000000;stroke:none"
-           id="tspan390">If you did not initiate this registration, please </tspan></tspan><tspan
+           id="tspan425">If you did not initiate this registration, please </tspan></tspan><tspan
          x="1935"
          y="572.15803"
-         id="tspan393"><tspan
+         id="tspan428"><tspan
            style="-inkscape-font-specification:'Open Sans, Normal';fill:#000000;stroke:none"
-           id="tspan392">disregard this message. No further action will </tspan></tspan><tspan
+           id="tspan427">disregard this message. No further action will </tspan></tspan><tspan
          x="1935"
          y="599.35804"
-         id="tspan395"><tspan
+         id="tspan430"><tspan
            style="-inkscape-font-specification:'Open Sans, Normal';fill:#000000;stroke:none"
-           id="tspan394">be required. Your email address will be deleted </tspan></tspan><tspan
+           id="tspan429">be required. Your email address will be deleted </tspan></tspan><tspan
          x="1935"
          y="626.55805"
-         id="tspan397"><tspan
+         id="tspan432"><tspan
            style="-inkscape-font-specification:'Open Sans, Normal';fill:#000000;stroke:none"
-           id="tspan396">from our records in a couple of days.
+           id="tspan431">from our records in a couple of days.
 </tspan></tspan><tspan
          x="1935"
          y="653.75807"
-         id="tspan399"><tspan
+         id="tspan434"><tspan
            style="-inkscape-font-specification:'Open Sans, Normal';fill:#000000;stroke:none"
-           id="tspan398">
+           id="tspan433">
 </tspan></tspan><tspan
          x="1935"
          y="680.95808"
-         id="tspan401"><tspan
+         id="tspan436"><tspan
            style="-inkscape-font-specification:'Open Sans, Normal';fill:#000000;stroke:none"
-           id="tspan400">We appreciate your attention to this matter </tspan></tspan><tspan
+           id="tspan435">We appreciate your attention to this matter </tspan></tspan><tspan
          x="1935"
          y="708.15809"
-         id="tspan403"><tspan
+         id="tspan438"><tspan
            style="-inkscape-font-specification:'Open Sans, Normal';fill:#000000;stroke:none"
-           id="tspan402">and look forward to providing you with an </tspan></tspan><tspan
+           id="tspan437">and look forward to providing you with an </tspan></tspan><tspan
          x="1935"
          y="735.3582"
-         id="tspan407"><tspan
+         id="tspan442"><tspan
            style="-inkscape-font-specification:'Open Sans, Normal';fill:#000000;stroke:none"
-           id="tspan404">organized, AI</tspan><tspan
+           id="tspan439">organized, AI</tspan><tspan
            style="-inkscape-font-specification:'Open Sans, Normal';fill:#000000;stroke:none"
-           id="tspan405">‑</tspan><tspan
+           id="tspan440">‑</tspan><tspan
            style="-inkscape-font-specification:'Open Sans, Normal';fill:#000000;stroke:none"
-           id="tspan406">enhanced Q&amp;A experience.
+           id="tspan441">enhanced Q&amp;A experience.
 </tspan></tspan><tspan
          x="1935"
          y="762.55817"
-         id="tspan409"><tspan
+         id="tspan444"><tspan
            style="-inkscape-font-specification:'Open Sans, Normal';fill:#000000;stroke:none"
-           id="tspan408">
+           id="tspan443">
 </tspan></tspan><tspan
          x="1935"
          y="789.75819"
-         id="tspan411"><tspan
+         id="tspan446"><tspan
            style="-inkscape-font-specification:'Open Sans, Normal';fill:#000000;stroke:none"
-           id="tspan410">Sincerely,
+           id="tspan445">Sincerely,
 </tspan></tspan><tspan
          x="1935"
          y="816.9582"
-         id="tspan413"><tspan
+         id="tspan448"><tspan
            style="-inkscape-font-specification:'Open Sans, Normal';fill:#000000;stroke:none"
-           id="tspan412">
+           id="tspan447">
 </tspan></tspan><tspan
          x="1935"
          y="844.15821"
-         id="tspan415"><tspan
+         id="tspan450"><tspan
            style="-inkscape-font-specification:'Open Sans, Normal';fill:#000000;stroke:none"
-           id="tspan414">The Q&amp;A Vault Team
+           id="tspan449">The Q&amp;A Vault Team
 </tspan></tspan><tspan
          x="1935"
          y="871.35822"
-         id="tspan417"><tspan
+         id="tspan452"><tspan
            style="-inkscape-font-specification:'Open Sans, Normal';fill:#000000;stroke:none"
-           id="tspan416">Support: support@qavault.com
+           id="tspan451">Support: support@qavault.com
 </tspan></tspan><tspan
          x="1935"
          y="898.55824"
-         id="tspan419"><tspan
+         id="tspan454"><tspan
            style="-inkscape-font-specification:'Open Sans, Normal';fill:#000000;stroke:none"
-           id="tspan418">Website: https://qavault.com</tspan></tspan></text>
+           id="tspan453">Website: https://qavault.com</tspan></tspan></text>
     <g
        id="g148"
        transform="translate(1759.3682,-307.2296)">
@@ -2490,339 +2504,339 @@
        id="text157"><tspan
          x="2320"
          y="28.157906"
-         id="tspan422"><tspan
+         id="tspan457"><tspan
            style="font-weight:bold"
-           id="tspan420">Subject:</tspan><tspan
+           id="tspan455">Subject:</tspan><tspan
            style="-inkscape-font-specification:'Open Sans, Normal';fill:#000000;stroke:none"
-           id="tspan421"> Welcome to the Q&amp;A Vault – Your </tspan></tspan><tspan
+           id="tspan456"> Welcome to the Q&amp;A Vault – Your </tspan></tspan><tspan
          x="2320"
          y="55.357907"
-         id="tspan424"><tspan
+         id="tspan459"><tspan
            style="-inkscape-font-specification:'Open Sans, Normal';fill:#000000;stroke:none"
-           id="tspan423">Account Is Ready!
+           id="tspan458">Account Is Ready!
 </tspan></tspan><tspan
          x="2320"
          y="82.557908"
-         id="tspan426"><tspan
+         id="tspan461"><tspan
            style="-inkscape-font-specification:'Open Sans, Normal';fill:#000000;stroke:none"
-           id="tspan425">
+           id="tspan460">
 </tspan></tspan><tspan
          x="2320"
          y="109.75791"
-         id="tspan429"><tspan
+         id="tspan464"><tspan
            style="font-weight:bold"
-           id="tspan427">Content:</tspan><tspan
+           id="tspan462">Content:</tspan><tspan
            style="-inkscape-font-specification:'Open Sans, Normal';fill:#000000;stroke:none"
-           id="tspan428">
+           id="tspan463">
 </tspan></tspan><tspan
          x="2320"
          y="136.95791"
-         id="tspan431"><tspan
+         id="tspan466"><tspan
            style="-inkscape-font-specification:'Open Sans, Normal';fill:#000000;stroke:none"
-           id="tspan430">
+           id="tspan465">
 </tspan></tspan><tspan
          x="2320"
          y="164.15791"
-         id="tspan433"><tspan
+         id="tspan468"><tspan
            style="-inkscape-font-specification:'Open Sans, Normal';fill:#000000;stroke:none"
-           id="tspan432">Hey, Jane Doe!
+           id="tspan467">Hey, Jane Doe!
 </tspan></tspan><tspan
          x="2320"
          y="191.3579"
-         id="tspan435"><tspan
+         id="tspan470"><tspan
            style="-inkscape-font-specification:'Open Sans, Normal';fill:#000000;stroke:none"
-           id="tspan434">
+           id="tspan469">
 </tspan></tspan><tspan
          x="2320"
          y="218.5579"
-         id="tspan437"><tspan
+         id="tspan472"><tspan
            style="-inkscape-font-specification:'Open Sans, Normal';fill:#000000;stroke:none"
-           id="tspan436">Congratulations! Your account has been </tspan></tspan><tspan
+           id="tspan471">Congratulations! Your account has been </tspan></tspan><tspan
          x="2320"
          y="245.7579"
-         id="tspan439"><tspan
+         id="tspan474"><tspan
            style="-inkscape-font-specification:'Open Sans, Normal';fill:#000000;stroke:none"
-           id="tspan438">successfully created, and you’re now part of the </tspan></tspan><tspan
+           id="tspan473">successfully created, and you’re now part of the </tspan></tspan><tspan
          x="2320"
          y="272.95789"
-         id="tspan441"><tspan
+         id="tspan476"><tspan
            style="-inkscape-font-specification:'Open Sans, Normal';fill:#000000;stroke:none"
-           id="tspan440">Q&amp;A Vault community. We’re delighted to have </tspan></tspan><tspan
+           id="tspan475">Q&amp;A Vault community. We’re delighted to have </tspan></tspan><tspan
          x="2320"
          y="300.15791"
-         id="tspan443"><tspan
+         id="tspan478"><tspan
            style="-inkscape-font-specification:'Open Sans, Normal';fill:#000000;stroke:none"
-           id="tspan442">you on board.
+           id="tspan477">you on board.
 </tspan></tspan><tspan
          x="2320"
          y="327.35792"
-         id="tspan445"><tspan
+         id="tspan480"><tspan
            style="-inkscape-font-specification:'Open Sans, Normal';fill:#000000;stroke:none"
-           id="tspan444">
+           id="tspan479">
 </tspan></tspan><tspan
          x="2320"
          y="354.55793"
-         id="tspan448"><tspan
+         id="tspan483"><tspan
            style="font-weight:bold"
-           id="tspan446">Log in now:</tspan><tspan
+           id="tspan481">Log in now:</tspan><tspan
            style="-inkscape-font-specification:'Open Sans, Normal';fill:#000000;stroke:none"
-           id="tspan447">
+           id="tspan482">
 </tspan></tspan><tspan
          x="2320"
          y="381.75794"
-         id="tspan450"><tspan
+         id="tspan485"><tspan
            style="-inkscape-font-specification:'Open Sans, Normal';fill:#000000;stroke:none"
-           id="tspan449">Please visit the following link to access your </tspan></tspan><tspan
+           id="tspan484">Please visit the following link to access your </tspan></tspan><tspan
          x="2320"
          y="408.95796"
-         id="tspan452"><tspan
+         id="tspan487"><tspan
            style="-inkscape-font-specification:'Open Sans, Normal';fill:#000000;stroke:none"
-           id="tspan451">dashboard and begin organizing your </tspan></tspan><tspan
+           id="tspan486">dashboard and begin organizing your </tspan></tspan><tspan
          x="2320"
          y="436.15797"
-         id="tspan454"><tspan
+         id="tspan489"><tspan
            style="-inkscape-font-specification:'Open Sans, Normal';fill:#000000;stroke:none"
-           id="tspan453">questions and answers:
+           id="tspan488">questions and answers:
 </tspan></tspan><tspan
          x="2320"
          y="463.35798"
-         id="tspan456"><tspan
+         id="tspan491"><tspan
            style="-inkscape-font-specification:'Open Sans, Normal';fill:#000000;stroke:none"
-           id="tspan455">
+           id="tspan490">
 </tspan></tspan><tspan
          x="2320"
          y="490.55799"
-         id="tspan458"><tspan
+         id="tspan493"><tspan
            style="-inkscape-font-specification:'Open Sans, Normal';fill:#000000;stroke:none"
-           id="tspan457">
+           id="tspan492">
 </tspan></tspan><tspan
          x="2320"
          y="517.758"
-         id="tspan460"><tspan
-           style="-inkscape-font-specification:'Open Sans, Normal';fill:#000000;stroke:none"
-           id="tspan459">
-</tspan></tspan><tspan
-         x="2320"
-         y="544.95802"
-         id="tspan463"><tspan
-           style="font-weight:bold"
-           id="tspan461">What’s next?</tspan><tspan
-           style="-inkscape-font-specification:'Open Sans, Normal';fill:#000000;stroke:none"
-           id="tspan462">
-</tspan></tspan><tspan
-         x="2320"
-         y="572.15803"
-         id="tspan465"><tspan
-           style="-inkscape-font-specification:'Open Sans, Normal';fill:#000000;stroke:none"
-           id="tspan464">
-</tspan></tspan><tspan
-         x="2320"
-         y="599.35804"
-         id="tspan469"><tspan
-           style="-inkscape-font-specification:'Open Sans, Normal';fill:#000000;stroke:none"
-           id="tspan466">       </tspan><tspan
-           style="font-weight:bold"
-           id="tspan467">Add Your First Q&amp;A</tspan><tspan
-           style="-inkscape-font-specification:'Open Sans, Normal';fill:#000000;stroke:none"
-           id="tspan468">
-</tspan></tspan><tspan
-         x="2320"
-         y="626.55805"
-         id="tspan471"><tspan
-           style="-inkscape-font-specification:'Open Sans, Normal';fill:#000000;stroke:none"
-           id="tspan470">Start by importing existing questions and </tspan></tspan><tspan
-         x="2320"
-         y="653.75807"
-         id="tspan473"><tspan
-           style="-inkscape-font-specification:'Open Sans, Normal';fill:#000000;stroke:none"
-           id="tspan472">answers or creating new entries directly in your </tspan></tspan><tspan
-         x="2320"
-         y="680.95808"
-         id="tspan475"><tspan
-           style="-inkscape-font-specification:'Open Sans, Normal';fill:#000000;stroke:none"
-           id="tspan474">vault.
-</tspan></tspan><tspan
-         x="2320"
-         y="708.15809"
-         id="tspan477"><tspan
-           style="-inkscape-font-specification:'Open Sans, Normal';fill:#000000;stroke:none"
-           id="tspan476">
-</tspan></tspan><tspan
-         x="2320"
-         y="735.3581"
-         id="tspan481"><tspan
-           style="-inkscape-font-specification:'Open Sans, Normal';fill:#000000;stroke:none"
-           id="tspan478">       </tspan><tspan
-           style="font-weight:bold"
-           id="tspan479">Organize with Tags &amp; Categories</tspan><tspan
-           style="-inkscape-font-specification:'Open Sans, Normal';fill:#000000;stroke:none"
-           id="tspan480">
-</tspan></tspan><tspan
-         x="2320"
-         y="762.55811"
-         id="tspan483"><tspan
-           style="-inkscape-font-specification:'Open Sans, Normal';fill:#000000;stroke:none"
-           id="tspan482">Use tags, folders, and stars to structure your </tspan></tspan><tspan
-         x="2320"
-         y="789.75822"
-         id="tspan487"><tspan
-           style="-inkscape-font-specification:'Open Sans, Normal';fill:#000000;stroke:none"
-           id="tspan484">library for lightning</tspan><tspan
-           style="-inkscape-font-specification:'Open Sans, Normal';fill:#000000;stroke:none"
-           id="tspan485">‑</tspan><tspan
-           style="-inkscape-font-specification:'Open Sans, Normal';fill:#000000;stroke:none"
-           id="tspan486">fast retrieval.
-</tspan></tspan><tspan
-         x="2320"
-         y="816.9582"
-         id="tspan489"><tspan
-           style="-inkscape-font-specification:'Open Sans, Normal';fill:#000000;stroke:none"
-           id="tspan488">
-</tspan></tspan><tspan
-         x="2320"
-         y="844.15831"
          id="tspan495"><tspan
-           style="-inkscape-font-specification:'Open Sans, Normal';fill:#000000;stroke:none"
-           id="tspan490">       </tspan><tspan
-           style="font-weight:bold"
-           id="tspan491">Explore AI</tspan><tspan
-           style="font-weight:bold"
-           id="tspan492">‑</tspan><tspan
-           style="font-weight:bold"
-           id="tspan493">Powered Curation</tspan><tspan
            style="-inkscape-font-specification:'Open Sans, Normal';fill:#000000;stroke:none"
            id="tspan494">
 </tspan></tspan><tspan
          x="2320"
+         y="544.95802"
+         id="tspan498"><tspan
+           style="font-weight:bold"
+           id="tspan496">What’s next?</tspan><tspan
+           style="-inkscape-font-specification:'Open Sans, Normal';fill:#000000;stroke:none"
+           id="tspan497">
+</tspan></tspan><tspan
+         x="2320"
+         y="572.15803"
+         id="tspan500"><tspan
+           style="-inkscape-font-specification:'Open Sans, Normal';fill:#000000;stroke:none"
+           id="tspan499">
+</tspan></tspan><tspan
+         x="2320"
+         y="599.35804"
+         id="tspan504"><tspan
+           style="-inkscape-font-specification:'Open Sans, Normal';fill:#000000;stroke:none"
+           id="tspan501">       </tspan><tspan
+           style="font-weight:bold"
+           id="tspan502">Add Your First Q&amp;A</tspan><tspan
+           style="-inkscape-font-specification:'Open Sans, Normal';fill:#000000;stroke:none"
+           id="tspan503">
+</tspan></tspan><tspan
+         x="2320"
+         y="626.55805"
+         id="tspan506"><tspan
+           style="-inkscape-font-specification:'Open Sans, Normal';fill:#000000;stroke:none"
+           id="tspan505">Start by importing existing questions and </tspan></tspan><tspan
+         x="2320"
+         y="653.75807"
+         id="tspan508"><tspan
+           style="-inkscape-font-specification:'Open Sans, Normal';fill:#000000;stroke:none"
+           id="tspan507">answers or creating new entries directly in your </tspan></tspan><tspan
+         x="2320"
+         y="680.95808"
+         id="tspan510"><tspan
+           style="-inkscape-font-specification:'Open Sans, Normal';fill:#000000;stroke:none"
+           id="tspan509">vault.
+</tspan></tspan><tspan
+         x="2320"
+         y="708.15809"
+         id="tspan512"><tspan
+           style="-inkscape-font-specification:'Open Sans, Normal';fill:#000000;stroke:none"
+           id="tspan511">
+</tspan></tspan><tspan
+         x="2320"
+         y="735.3581"
+         id="tspan516"><tspan
+           style="-inkscape-font-specification:'Open Sans, Normal';fill:#000000;stroke:none"
+           id="tspan513">       </tspan><tspan
+           style="font-weight:bold"
+           id="tspan514">Organize with Tags &amp; Categories</tspan><tspan
+           style="-inkscape-font-specification:'Open Sans, Normal';fill:#000000;stroke:none"
+           id="tspan515">
+</tspan></tspan><tspan
+         x="2320"
+         y="762.55811"
+         id="tspan518"><tspan
+           style="-inkscape-font-specification:'Open Sans, Normal';fill:#000000;stroke:none"
+           id="tspan517">Use tags, folders, and stars to structure your </tspan></tspan><tspan
+         x="2320"
+         y="789.75822"
+         id="tspan522"><tspan
+           style="-inkscape-font-specification:'Open Sans, Normal';fill:#000000;stroke:none"
+           id="tspan519">library for lightning</tspan><tspan
+           style="-inkscape-font-specification:'Open Sans, Normal';fill:#000000;stroke:none"
+           id="tspan520">‑</tspan><tspan
+           style="-inkscape-font-specification:'Open Sans, Normal';fill:#000000;stroke:none"
+           id="tspan521">fast retrieval.
+</tspan></tspan><tspan
+         x="2320"
+         y="816.9582"
+         id="tspan524"><tspan
+           style="-inkscape-font-specification:'Open Sans, Normal';fill:#000000;stroke:none"
+           id="tspan523">
+</tspan></tspan><tspan
+         x="2320"
+         y="844.15831"
+         id="tspan530"><tspan
+           style="-inkscape-font-specification:'Open Sans, Normal';fill:#000000;stroke:none"
+           id="tspan525">       </tspan><tspan
+           style="font-weight:bold"
+           id="tspan526">Explore AI</tspan><tspan
+           style="font-weight:bold"
+           id="tspan527">‑</tspan><tspan
+           style="font-weight:bold"
+           id="tspan528">Powered Curation</tspan><tspan
+           style="-inkscape-font-specification:'Open Sans, Normal';fill:#000000;stroke:none"
+           id="tspan529">
+</tspan></tspan><tspan
+         x="2320"
          y="871.35838"
-         id="tspan499"><tspan
+         id="tspan534"><tspan
            style="-inkscape-font-specification:'Open Sans, Normal';fill:#000000;stroke:none"
-           id="tspan496">Select any question to receive AI</tspan><tspan
+           id="tspan531">Select any question to receive AI</tspan><tspan
            style="-inkscape-font-specification:'Open Sans, Normal';fill:#000000;stroke:none"
-           id="tspan497">‑</tspan><tspan
+           id="tspan532">‑</tspan><tspan
            style="-inkscape-font-specification:'Open Sans, Normal';fill:#000000;stroke:none"
-           id="tspan498">generated </tspan></tspan><tspan
+           id="tspan533">generated </tspan></tspan><tspan
          x="2320"
          y="898.55836"
-         id="tspan501"><tspan
+         id="tspan536"><tspan
            style="-inkscape-font-specification:'Open Sans, Normal';fill:#000000;stroke:none"
-           id="tspan500">answer suggestions based on your archive.
+           id="tspan535">answer suggestions based on your archive.
 </tspan></tspan><tspan
          x="2320"
          y="925.75837"
-         id="tspan503"><tspan
+         id="tspan538"><tspan
            style="-inkscape-font-specification:'Open Sans, Normal';fill:#000000;stroke:none"
-           id="tspan502">
+           id="tspan537">
 </tspan></tspan><tspan
          x="2320"
          y="952.95838"
-         id="tspan507"><tspan
+         id="tspan542"><tspan
            style="-inkscape-font-specification:'Open Sans, Normal';fill:#000000;stroke:none"
-           id="tspan504">       </tspan><tspan
+           id="tspan539">       </tspan><tspan
            style="font-weight:bold"
-           id="tspan505">Install Our Browser Extension</tspan><tspan
+           id="tspan540">Install Our Browser Extension</tspan><tspan
            style="-inkscape-font-specification:'Open Sans, Normal';fill:#000000;stroke:none"
-           id="tspan506">
+           id="tspan541">
 </tspan></tspan><tspan
          x="2320"
          y="980.15839"
-         id="tspan509"><tspan
+         id="tspan544"><tspan
            style="-inkscape-font-specification:'Open Sans, Normal';fill:#000000;stroke:none"
-           id="tspan508">Capture questions and answers on the fly as </tspan></tspan><tspan
+           id="tspan543">Capture questions and answers on the fly as </tspan></tspan><tspan
          x="2320"
          y="1007.3584"
-         id="tspan511"><tspan
+         id="tspan546"><tspan
            style="-inkscape-font-specification:'Open Sans, Normal';fill:#000000;stroke:none"
-           id="tspan510">you browse job portals and application sites.
+           id="tspan545">you browse job portals and application sites.
 </tspan></tspan><tspan
          x="2320"
          y="1034.5584"
-         id="tspan513"><tspan
+         id="tspan548"><tspan
            style="-inkscape-font-specification:'Open Sans, Normal';fill:#000000;stroke:none"
-           id="tspan512">
+           id="tspan547">
 </tspan></tspan><tspan
          x="2320"
          y="1061.7584"
-         id="tspan515"><tspan
+         id="tspan550"><tspan
            style="-inkscape-font-specification:'Open Sans, Normal';fill:#000000;stroke:none"
-           id="tspan514">If you have any questions or need assistance, </tspan></tspan><tspan
+           id="tspan549">If you have any questions or need assistance, </tspan></tspan><tspan
          x="2320"
          y="1088.9583"
-         id="tspan517"><tspan
+         id="tspan552"><tspan
            style="-inkscape-font-specification:'Open Sans, Normal';fill:#000000;stroke:none"
-           id="tspan516">please don’t hesitate to contact our support </tspan></tspan><tspan
+           id="tspan551">please don’t hesitate to contact our support </tspan></tspan><tspan
          x="2320"
          y="1116.1583"
-         id="tspan519"><tspan
+         id="tspan554"><tspan
            style="-inkscape-font-specification:'Open Sans, Normal';fill:#000000;stroke:none"
-           id="tspan518">team at support@qavault.com.
+           id="tspan553">team at support@qavault.com.
 </tspan></tspan><tspan
          x="2320"
          y="1143.3582"
-         id="tspan521"><tspan
+         id="tspan556"><tspan
            style="-inkscape-font-specification:'Open Sans, Normal';fill:#000000;stroke:none"
-           id="tspan520">
+           id="tspan555">
 </tspan></tspan><tspan
          x="2320"
          y="1170.5582"
-         id="tspan523"><tspan
+         id="tspan558"><tspan
            style="-inkscape-font-specification:'Open Sans, Normal';fill:#000000;stroke:none"
-           id="tspan522">We look forward to helping you streamline </tspan></tspan><tspan
+           id="tspan557">We look forward to helping you streamline </tspan></tspan><tspan
          x="2320"
          y="1197.7581"
-         id="tspan525"><tspan
+         id="tspan560"><tspan
            style="-inkscape-font-specification:'Open Sans, Normal';fill:#000000;stroke:none"
-           id="tspan524">your application workflow and save countless </tspan></tspan><tspan
+           id="tspan559">your application workflow and save countless </tspan></tspan><tspan
          x="2320"
          y="1224.9582"
-         id="tspan529"><tspan
+         id="tspan564"><tspan
            style="-inkscape-font-specification:'Open Sans, Normal';fill:#000000;stroke:none"
-           id="tspan526">hours with an organized, AI</tspan><tspan
+           id="tspan561">hours with an organized, AI</tspan><tspan
            style="-inkscape-font-specification:'Open Sans, Normal';fill:#000000;stroke:none"
-           id="tspan527">‑</tspan><tspan
+           id="tspan562">‑</tspan><tspan
            style="-inkscape-font-specification:'Open Sans, Normal';fill:#000000;stroke:none"
-           id="tspan528">enhanced Q&amp;A </tspan></tspan><tspan
+           id="tspan563">enhanced Q&amp;A </tspan></tspan><tspan
          x="2320"
          y="1252.1582"
-         id="tspan531"><tspan
+         id="tspan566"><tspan
            style="-inkscape-font-specification:'Open Sans, Normal';fill:#000000;stroke:none"
-           id="tspan530">experience.
+           id="tspan565">experience.
 </tspan></tspan><tspan
          x="2320"
          y="1279.3581"
-         id="tspan533"><tspan
+         id="tspan568"><tspan
            style="-inkscape-font-specification:'Open Sans, Normal';fill:#000000;stroke:none"
-           id="tspan532">
+           id="tspan567">
 </tspan></tspan><tspan
          x="2320"
          y="1306.5581"
-         id="tspan535"><tspan
+         id="tspan570"><tspan
            style="-inkscape-font-specification:'Open Sans, Normal';fill:#000000;stroke:none"
-           id="tspan534">Sincerely,
+           id="tspan569">Sincerely,
 </tspan></tspan><tspan
          x="2320"
          y="1333.758"
-         id="tspan537"><tspan
+         id="tspan572"><tspan
            style="-inkscape-font-specification:'Open Sans, Normal';fill:#000000;stroke:none"
-           id="tspan536">
+           id="tspan571">
 </tspan></tspan><tspan
          x="2320"
          y="1360.958"
-         id="tspan539"><tspan
+         id="tspan574"><tspan
            style="-inkscape-font-specification:'Open Sans, Normal';fill:#000000;stroke:none"
-           id="tspan538">The Q&amp;A Vault Team
+           id="tspan573">The Q&amp;A Vault Team
 </tspan></tspan><tspan
          x="2320"
          y="1388.1579"
-         id="tspan541"><tspan
+         id="tspan576"><tspan
            style="-inkscape-font-specification:'Open Sans, Normal';fill:#000000;stroke:none"
-           id="tspan540">Support: support@qavault.com
+           id="tspan575">Support: support@qavault.com
 </tspan></tspan><tspan
          x="2320"
          y="1415.3579"
-         id="tspan543"><tspan
+         id="tspan578"><tspan
            style="-inkscape-font-specification:'Open Sans, Normal';fill:#000000;stroke:none"
-           id="tspan542">Website: https://qavault.com</tspan></tspan></text>
+           id="tspan577">Website: https://qavault.com</tspan></tspan></text>
     <g
        id="g158"
        transform="translate(2196.4702,-167.2296)">
@@ -3041,14 +3055,14 @@
        id="text178"><tspan
          x="2705"
          y="166.21259"
-         id="tspan545"><tspan
+         id="tspan580"><tspan
            style="-inkscape-font-specification:'Open Sans, Normal';fill:#000000;stroke:none"
-           id="tspan544">Welcome back! We’re dedicated to providing </tspan></tspan><tspan
+           id="tspan579">Welcome back! We’re dedicated to providing </tspan></tspan><tspan
          x="2705"
          y="193.41259"
-         id="tspan547"><tspan
+         id="tspan582"><tspan
            style="-inkscape-font-specification:'Open Sans, Normal';fill:#000000;stroke:none"
-           id="tspan546">you with a seamless Q&amp;A experience.</tspan></tspan></text>
+           id="tspan581">you with a seamless Q&amp;A experience.</tspan></tspan></text>
     <g
        id="g179"
        transform="translate(2666.9674,-428.68706)">
@@ -3121,19 +3135,19 @@
        id="text182"><tspan
          x="2705"
          y="746.21259"
-         id="tspan549"><tspan
+         id="tspan584"><tspan
            style="-inkscape-font-specification:'Open Sans, Normal';fill:#000000;stroke:none"
-           id="tspan548">If you encounter any issues or have ideas for </tspan></tspan><tspan
+           id="tspan583">If you encounter any issues or have ideas for </tspan></tspan><tspan
          x="2705"
          y="773.41261"
-         id="tspan551"><tspan
+         id="tspan586"><tspan
            style="-inkscape-font-specification:'Open Sans, Normal';fill:#000000;stroke:none"
-           id="tspan550">new features, please don’t hesitate to share </tspan></tspan><tspan
+           id="tspan585">new features, please don’t hesitate to share </tspan></tspan><tspan
          x="2705"
          y="800.61262"
-         id="tspan553"><tspan
+         id="tspan588"><tspan
            style="-inkscape-font-specification:'Open Sans, Normal';fill:#000000;stroke:none"
-           id="tspan552">your feedback. Your insights help us improve.</tspan></tspan></text>
+           id="tspan587">your feedback. Your insights help us improve.</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-size:28px;line-height:1.7;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#e1e3e3;fill-opacity:1;stroke:#000000;stroke-linejoin:bevel;stroke-opacity:1"
@@ -3160,31 +3174,31 @@
        id="text190"><tspan
          x="3090.043"
          y="386.21259"
-         id="tspan555"><tspan
+         id="tspan590"><tspan
            style="-inkscape-font-specification:'Open Sans, Normal';fill:#000000;stroke:none"
-           id="tspan554">You account has been created successfully.
+           id="tspan589">You account has been created successfully.
 </tspan></tspan><tspan
          x="3090.043"
          y="413.41261"
-         id="tspan557"><tspan
+         id="tspan592"><tspan
            style="-inkscape-font-specification:'Open Sans, Normal';fill:#000000;stroke:none"
-           id="tspan556">
+           id="tspan591">
 </tspan></tspan><tspan
          x="3090.043"
          y="440.61262"
-         id="tspan559"><tspan
+         id="tspan594"><tspan
            style="-inkscape-font-specification:'Open Sans, Normal';fill:#000000;stroke:none"
-           id="tspan558">Please visit the following link to access your </tspan></tspan><tspan
+           id="tspan593">Please visit the following link to access your </tspan></tspan><tspan
          x="3090.043"
          y="467.81263"
-         id="tspan561"><tspan
+         id="tspan596"><tspan
            style="-inkscape-font-specification:'Open Sans, Normal';fill:#000000;stroke:none"
-           id="tspan560">dashboard and begin organizing your </tspan></tspan><tspan
+           id="tspan595">dashboard and begin organizing your </tspan></tspan><tspan
          x="3090.043"
          y="495.01264"
-         id="tspan563"><tspan
+         id="tspan598"><tspan
            style="-inkscape-font-specification:'Open Sans, Normal';fill:#000000;stroke:none"
-           id="tspan562">questions and answers</tspan></tspan></text>
+           id="tspan597">questions and answers</tspan></tspan></text>
     <g
        id="g192"
        transform="translate(3170.3568,146.96182)">
@@ -3319,107 +3333,107 @@
        id="text198"><tspan
          x="3473.9922"
          y="266.21259"
-         id="tspan565"><tspan
+         id="tspan600"><tspan
            style="-inkscape-font-specification:'Open Sans, Normal';fill:#000000;stroke:none"
-           id="tspan564">It’s time to populate your library!
+           id="tspan599">It’s time to populate your library!
 </tspan></tspan><tspan
          x="3473.9922"
          y="293.41261"
-         id="tspan567"><tspan
+         id="tspan602"><tspan
            style="-inkscape-font-specification:'Open Sans, Normal';fill:#000000;stroke:none"
-           id="tspan566">
+           id="tspan601">
 </tspan></tspan><tspan
          x="3473.9922"
          y="320.61262"
-         id="tspan569"><tspan
+         id="tspan604"><tspan
            style="-inkscape-font-specification:'Open Sans, Normal';fill:#000000;stroke:none"
-           id="tspan568">
+           id="tspan603">
 </tspan></tspan><tspan
          x="3473.9922"
          y="347.81263"
-         id="tspan571"><tspan
+         id="tspan606"><tspan
            style="-inkscape-font-specification:'Open Sans, Normal';fill:#000000;stroke:none"
-           id="tspan570">
+           id="tspan605">
 </tspan></tspan><tspan
          x="3473.9922"
          y="375.01264"
-         id="tspan573"><tspan
+         id="tspan608"><tspan
            style="-inkscape-font-specification:'Open Sans, Normal';fill:#000000;stroke:none"
-           id="tspan572">
+           id="tspan607">
 </tspan></tspan><tspan
          x="3473.9922"
          y="402.21275"
-         id="tspan577"><tspan
+         id="tspan612"><tspan
            style="-inkscape-font-specification:'Open Sans, Normal';fill:#000000;stroke:none"
-           id="tspan574">       Experience lightning</tspan><tspan
+           id="tspan609">       Experience lightning</tspan><tspan
            style="-inkscape-font-specification:'Open Sans, Normal';fill:#000000;stroke:none"
-           id="tspan575">‑</tspan><tspan
+           id="tspan610">‑</tspan><tspan
            style="-inkscape-font-specification:'Open Sans, Normal';fill:#000000;stroke:none"
-           id="tspan576">fast search and </tspan></tspan><tspan
+           id="tspan611">fast search and </tspan></tspan><tspan
          x="3473.9922"
          y="429.41286"
-         id="tspan581"><tspan
+         id="tspan616"><tspan
            style="-inkscape-font-specification:'Open Sans, Normal';fill:#000000;stroke:none"
-           id="tspan578">one</tspan><tspan
+           id="tspan613">one</tspan><tspan
            style="-inkscape-font-specification:'Open Sans, Normal';fill:#000000;stroke:none"
-           id="tspan579">‑</tspan><tspan
+           id="tspan614">‑</tspan><tspan
            style="-inkscape-font-specification:'Open Sans, Normal';fill:#000000;stroke:none"
-           id="tspan580">click copy
+           id="tspan615">click copy
 </tspan></tspan><tspan
          x="3473.9922"
          y="456.61286"
-         id="tspan583"><tspan
+         id="tspan618"><tspan
            style="-inkscape-font-specification:'Open Sans, Normal';fill:#000000;stroke:none"
-           id="tspan582">
+           id="tspan617">
 </tspan></tspan><tspan
          x="3473.9922"
          y="483.81287"
-         id="tspan585"><tspan
+         id="tspan620"><tspan
            style="-inkscape-font-specification:'Open Sans, Normal';fill:#000000;stroke:none"
-           id="tspan584">       Organize entries with tags and categories </tspan></tspan><tspan
+           id="tspan619">       Organize entries with tags and categories </tspan></tspan><tspan
          x="3473.9922"
          y="511.01289"
-         id="tspan587"><tspan
+         id="tspan622"><tspan
            style="-inkscape-font-specification:'Open Sans, Normal';fill:#000000;stroke:none"
-           id="tspan586">for instant access
+           id="tspan621">for instant access
 </tspan></tspan><tspan
          x="3473.9922"
          y="538.2129"
-         id="tspan589"><tspan
+         id="tspan624"><tspan
            style="-inkscape-font-specification:'Open Sans, Normal';fill:#000000;stroke:none"
-           id="tspan588">
+           id="tspan623">
 </tspan></tspan><tspan
          x="3473.9922"
          y="565.41301"
-         id="tspan593"><tspan
+         id="tspan628"><tspan
            style="-inkscape-font-specification:'Open Sans, Normal';fill:#000000;stroke:none"
-           id="tspan590">       Unlock AI</tspan><tspan
+           id="tspan625">       Unlock AI</tspan><tspan
            style="-inkscape-font-specification:'Open Sans, Normal';fill:#000000;stroke:none"
-           id="tspan591">‑</tspan><tspan
+           id="tspan626">‑</tspan><tspan
            style="-inkscape-font-specification:'Open Sans, Normal';fill:#000000;stroke:none"
-           id="tspan592">powered suggestions to polish </tspan></tspan><tspan
+           id="tspan627">powered suggestions to polish </tspan></tspan><tspan
          x="3473.9922"
          y="592.61298"
-         id="tspan595"><tspan
+         id="tspan630"><tspan
            style="-inkscape-font-specification:'Open Sans, Normal';fill:#000000;stroke:none"
-           id="tspan594">and refine your responses
+           id="tspan629">and refine your responses
 </tspan></tspan><tspan
          x="3473.9922"
          y="619.813"
-         id="tspan597"><tspan
+         id="tspan632"><tspan
            style="-inkscape-font-specification:'Open Sans, Normal';fill:#000000;stroke:none"
-           id="tspan596">
+           id="tspan631">
 </tspan></tspan><tspan
          x="3473.9922"
          y="647.01301"
-         id="tspan599"><tspan
+         id="tspan634"><tspan
            style="-inkscape-font-specification:'Open Sans, Normal';fill:#000000;stroke:none"
-           id="tspan598">The more you add, the smarter and more </tspan></tspan><tspan
+           id="tspan633">The more you add, the smarter and more </tspan></tspan><tspan
          x="3473.9922"
          y="674.21302"
-         id="tspan601"><tspan
+         id="tspan636"><tspan
            style="-inkscape-font-specification:'Open Sans, Normal';fill:#000000;stroke:none"
-           id="tspan600">efficient your vault becomes. Let’s get started!</tspan></tspan></text>
+           id="tspan635">efficient your vault becomes. Let’s get started!</tspan></tspan></text>
     <g
        id="g201"
        transform="translate(3296.5055,-331.2296)">
@@ -4063,43 +4077,23 @@
        width="354"
        height="48"
        x="4629.4927"
-       y="93.480042"
-       ry="12.088636"
-       rx="12.088636" />
-    <text
-       xml:space="preserve"
-       style="font-size:16px;line-height:1.7;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#e1e3e3;fill-opacity:1;stroke:#000000;stroke-linejoin:bevel;stroke-opacity:1"
-       x="4765.7466"
-       y="123.11285"
-       id="text284"><tspan
-         sodipodi:role="line"
-         id="tspan284"
-         x="4765.7466"
-         y="123.11285"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;fill:#000000;stroke:none">Collections</tspan></text>
-    <rect
-       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linejoin:bevel;stroke-opacity:1"
-       id="rect285"
-       width="354"
-       height="48"
-       x="4629.4927"
        y="153.48004"
        ry="12.088636"
        rx="12.088636" />
     <text
        xml:space="preserve"
        style="font-size:16px;line-height:1.7;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#e1e3e3;fill-opacity:1;stroke:#000000;stroke-linejoin:bevel;stroke-opacity:1"
-       x="4774.7544"
+       x="4765.7466"
        y="183.11285"
-       id="text285"><tspan
+       id="text284"><tspan
          sodipodi:role="line"
-         id="tspan285"
-         x="4774.7544"
+         id="tspan284"
+         x="4765.7466"
          y="183.11285"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;fill:#000000;stroke:none">All Q&amp;As</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;fill:#000000;stroke:none">Collections</tspan></text>
     <rect
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linejoin:bevel;stroke-opacity:1"
-       id="rect286"
+       id="rect285"
        width="354"
        height="48"
        x="4629.4927"
@@ -4109,17 +4103,17 @@
     <text
        xml:space="preserve"
        style="font-size:16px;line-height:1.7;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#e1e3e3;fill-opacity:1;stroke:#000000;stroke-linejoin:bevel;stroke-opacity:1"
-       x="4769.8169"
+       x="4774.7544"
        y="243.11285"
-       id="text286"><tspan
+       id="text285"><tspan
          sodipodi:role="line"
-         id="tspan286"
-         x="4769.8169"
+         id="tspan285"
+         x="4774.7544"
          y="243.11285"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;fill:#000000;stroke:none">New Q&amp;A</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;fill:#000000;stroke:none">All Q&amp;As</tspan></text>
     <rect
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linejoin:bevel;stroke-opacity:1"
-       id="rect287"
+       id="rect286"
        width="354"
        height="48"
        x="4629.4927"
@@ -4129,13 +4123,33 @@
     <text
        xml:space="preserve"
        style="font-size:16px;line-height:1.7;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#e1e3e3;fill-opacity:1;stroke:#000000;stroke-linejoin:bevel;stroke-opacity:1"
-       x="4750.7661"
+       x="4769.8169"
        y="303.11285"
+       id="text286"><tspan
+         sodipodi:role="line"
+         id="tspan286"
+         x="4769.8169"
+         y="303.11285"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;fill:#000000;stroke:none">New Q&amp;A</tspan></text>
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linejoin:bevel;stroke-opacity:1"
+       id="rect287"
+       width="354"
+       height="48"
+       x="4629.4927"
+       y="333.48004"
+       ry="12.088636"
+       rx="12.088636" />
+    <text
+       xml:space="preserve"
+       style="font-size:16px;line-height:1.7;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#e1e3e3;fill-opacity:1;stroke:#000000;stroke-linejoin:bevel;stroke-opacity:1"
+       x="4750.7661"
+       y="363.11285"
        id="text287"><tspan
          sodipodi:role="line"
          id="tspan287"
          x="4750.7661"
-         y="303.11285"
+         y="363.11285"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;fill:#000000;stroke:none">New Collection</tspan></text>
     <g
        id="g290">
@@ -4630,170 +4644,170 @@
        id="text319"><tspan
          x="5013.9922"
          y="192.19697"
-         id="tspan603"><tspan
+         id="tspan638"><tspan
            style="font-weight:bold"
-           id="tspan602">What is the reason you are applying for this </tspan></tspan><tspan
+           id="tspan637">What is the reason you are applying for this </tspan></tspan><tspan
          x="5013.9922"
          y="219.39697"
-         id="tspan605"><tspan
+         id="tspan640"><tspan
            style="font-weight:bold"
-           id="tspan604">job?
+           id="tspan639">job?
 </tspan></tspan><tspan
          x="5013.9922"
          y="246.59696"
-         id="tspan607"><tspan
+         id="tspan642"><tspan
            style="-inkscape-font-specification:'Open Sans, Normal';fill:#000000;stroke:none"
-           id="tspan606">
+           id="tspan641">
 </tspan></tspan><tspan
          x="5013.9922"
          y="273.79696"
-         id="tspan609"><tspan
+         id="tspan644"><tspan
            style="-inkscape-font-specification:'Open Sans, Normal';fill:#000000;stroke:none"
-           id="tspan608">I am excited about this opportunity at </tspan></tspan><tspan
+           id="tspan643">I am excited about this opportunity at </tspan></tspan><tspan
          x="5013.9922"
          y="300.99696"
-         id="tspan611"><tspan
+         id="tspan646"><tspan
            style="-inkscape-font-specification:'Open Sans, Normal';fill:#000000;stroke:none"
-           id="tspan610">[Company Name] because it represents a </tspan></tspan><tspan
+           id="tspan645">[Company Name] because it represents a </tspan></tspan><tspan
          x="5013.9922"
          y="328.19697"
-         id="tspan613"><tspan
+         id="tspan648"><tspan
            style="-inkscape-font-specification:'Open Sans, Normal';fill:#000000;stroke:none"
-           id="tspan612">perfect alignment between my career goals </tspan></tspan><tspan
+           id="tspan647">perfect alignment between my career goals </tspan></tspan><tspan
          x="5013.9922"
          y="355.39698"
-         id="tspan615"><tspan
+         id="tspan650"><tspan
            style="-inkscape-font-specification:'Open Sans, Normal';fill:#000000;stroke:none"
-           id="tspan614">and professional interests. With [Number] </tspan></tspan><tspan
+           id="tspan649">and professional interests. With [Number] </tspan></tspan><tspan
          x="5013.9922"
          y="382.59699"
-         id="tspan617"><tspan
+         id="tspan652"><tspan
            style="-inkscape-font-specification:'Open Sans, Normal';fill:#000000;stroke:none"
-           id="tspan616">years of experience in [Industry/Field], I've </tspan></tspan><tspan
+           id="tspan651">years of experience in [Industry/Field], I've </tspan></tspan><tspan
          x="5013.9922"
          y="409.79701"
-         id="tspan619"><tspan
+         id="tspan654"><tspan
            style="-inkscape-font-specification:'Open Sans, Normal';fill:#000000;stroke:none"
-           id="tspan618">always admired how [Company Name] [Specific </tspan></tspan><tspan
+           id="tspan653">always admired how [Company Name] [Specific </tspan></tspan><tspan
          x="5013.9922"
          y="436.99702"
-         id="tspan621"><tspan
+         id="tspan656"><tspan
            style="-inkscape-font-specification:'Open Sans, Normal';fill:#000000;stroke:none"
-           id="tspan620">Company Achievement or Initiative]. Your </tspan></tspan><tspan
+           id="tspan655">Company Achievement or Initiative]. Your </tspan></tspan><tspan
          x="5013.9922"
          y="464.19703"
-         id="tspan623"><tspan
+         id="tspan658"><tspan
            style="-inkscape-font-specification:'Open Sans, Normal';fill:#000000;stroke:none"
-           id="tspan622">organization stands out to me particularly </tspan></tspan><tspan
+           id="tspan657">organization stands out to me particularly </tspan></tspan><tspan
          x="5013.9922"
          y="491.39704"
-         id="tspan625"><tspan
+         id="tspan660"><tspan
            style="-inkscape-font-specification:'Open Sans, Normal';fill:#000000;stroke:none"
-           id="tspan624">because of its commitment to [Aspect of </tspan></tspan><tspan
+           id="tspan659">because of its commitment to [Aspect of </tspan></tspan><tspan
          x="5013.9922"
          y="518.59705"
-         id="tspan627"><tspan
+         id="tspan662"><tspan
            style="-inkscape-font-specification:'Open Sans, Normal';fill:#000000;stroke:none"
-           id="tspan626">Company Mission].
+           id="tspan661">Company Mission].
 </tspan></tspan><tspan
          x="5013.9922"
          y="545.79707"
-         id="tspan629"><tspan
+         id="tspan664"><tspan
            style="-inkscape-font-specification:'Open Sans, Normal';fill:#000000;stroke:none"
-           id="tspan628">
+           id="tspan663">
 </tspan></tspan><tspan
          x="5013.9922"
          y="572.99708"
-         id="tspan631"><tspan
+         id="tspan666"><tspan
            style="-inkscape-font-specification:'Open Sans, Normal';fill:#000000;stroke:none"
-           id="tspan630">What really drew me to this role was the </tspan></tspan><tspan
+           id="tspan665">What really drew me to this role was the </tspan></tspan><tspan
          x="5013.9922"
          y="600.19709"
-         id="tspan633"><tspan
+         id="tspan668"><tspan
            style="-inkscape-font-specification:'Open Sans, Normal';fill:#000000;stroke:none"
-           id="tspan632">opportunity to [Key Responsibility] and </tspan></tspan><tspan
+           id="tspan667">opportunity to [Key Responsibility] and </tspan></tspan><tspan
          x="5013.9922"
          y="627.3971"
-         id="tspan635"><tspan
+         id="tspan670"><tspan
            style="-inkscape-font-specification:'Open Sans, Normal';fill:#000000;stroke:none"
-           id="tspan634">contribute my skills in [Specific Skills]. I'm </tspan></tspan><tspan
+           id="tspan669">contribute my skills in [Specific Skills]. I'm </tspan></tspan><tspan
          x="5013.9922"
          y="654.59712"
-         id="tspan637"><tspan
+         id="tspan672"><tspan
            style="-inkscape-font-specification:'Open Sans, Normal';fill:#000000;stroke:none"
-           id="tspan636">impressed by how the position combines </tspan></tspan><tspan
+           id="tspan671">impressed by how the position combines </tspan></tspan><tspan
          x="5013.9922"
          y="681.79713"
-         id="tspan639"><tspan
+         id="tspan674"><tspan
            style="-inkscape-font-specification:'Open Sans, Normal';fill:#000000;stroke:none"
-           id="tspan638">[Desirable Aspects of Role] with [Company </tspan></tspan><tspan
+           id="tspan673">[Desirable Aspects of Role] with [Company </tspan></tspan><tspan
          x="5013.9922"
          y="708.99714"
-         id="tspan641"><tspan
+         id="tspan676"><tspan
            style="-inkscape-font-specification:'Open Sans, Normal';fill:#000000;stroke:none"
-           id="tspan640">Values]. My background in [Relevant </tspan></tspan><tspan
+           id="tspan675">Values]. My background in [Relevant </tspan></tspan><tspan
          x="5013.9922"
          y="736.19715"
-         id="tspan643"><tspan
+         id="tspan678"><tspan
            style="-inkscape-font-specification:'Open Sans, Normal';fill:#000000;stroke:none"
-           id="tspan642">Experience] has prepared me well for this </tspan></tspan><tspan
+           id="tspan677">Experience] has prepared me well for this </tspan></tspan><tspan
          x="5013.9922"
          y="763.39716"
-         id="tspan645"><tspan
+         id="tspan680"><tspan
            style="-inkscape-font-specification:'Open Sans, Normal';fill:#000000;stroke:none"
-           id="tspan644">challenge, and I'm eager to leverage my </tspan></tspan><tspan
+           id="tspan679">challenge, and I'm eager to leverage my </tspan></tspan><tspan
          x="5013.9922"
          y="790.59718"
-         id="tspan647"><tspan
+         id="tspan682"><tspan
            style="-inkscape-font-specification:'Open Sans, Normal';fill:#000000;stroke:none"
-           id="tspan646">expertise to help drive [Specific Business </tspan></tspan><tspan
+           id="tspan681">expertise to help drive [Specific Business </tspan></tspan><tspan
          x="5013.9922"
          y="817.79719"
-         id="tspan649"><tspan
+         id="tspan684"><tspan
            style="-inkscape-font-specification:'Open Sans, Normal';fill:#000000;stroke:none"
-           id="tspan648">Outcomes].
+           id="tspan683">Outcomes].
 </tspan></tspan><tspan
          x="5013.9922"
          y="844.9972"
-         id="tspan651"><tspan
+         id="tspan686"><tspan
            style="-inkscape-font-specification:'Open Sans, Normal';fill:#000000;stroke:none"
-           id="tspan650">
+           id="tspan685">
 </tspan></tspan><tspan
          x="5013.9922"
          y="872.19721"
-         id="tspan653"><tspan
+         id="tspan688"><tspan
            style="-inkscape-font-specification:'Open Sans, Normal';fill:#000000;stroke:none"
-           id="tspan652">I'm particularly excited about joining an </tspan></tspan><tspan
+           id="tspan687">I'm particularly excited about joining an </tspan></tspan><tspan
          x="5013.9922"
          y="899.39723"
-         id="tspan655"><tspan
+         id="tspan690"><tspan
            style="-inkscape-font-specification:'Open Sans, Normal';fill:#000000;stroke:none"
-           id="tspan654">organization where I can grow professionally </tspan></tspan><tspan
+           id="tspan689">organization where I can grow professionally </tspan></tspan><tspan
          x="5013.9922"
          y="926.59724"
-         id="tspan657"><tspan
+         id="tspan692"><tspan
            style="-inkscape-font-specification:'Open Sans, Normal';fill:#000000;stroke:none"
-           id="tspan656">while contributing meaningfully to the team's </tspan></tspan><tspan
+           id="tspan691">while contributing meaningfully to the team's </tspan></tspan><tspan
          x="5013.9922"
          y="953.79725"
-         id="tspan659"><tspan
+         id="tspan694"><tspan
            style="-inkscape-font-specification:'Open Sans, Normal';fill:#000000;stroke:none"
-           id="tspan658">objectives. The company culture and values </tspan></tspan><tspan
+           id="tspan693">objectives. The company culture and values </tspan></tspan><tspan
          x="5013.9922"
          y="980.99726"
-         id="tspan661"><tspan
+         id="tspan696"><tspan
            style="-inkscape-font-specification:'Open Sans, Normal';fill:#000000;stroke:none"
-           id="tspan660">align strongly with my own approach to work, </tspan></tspan><tspan
+           id="tspan695">align strongly with my own approach to work, </tspan></tspan><tspan
          x="5013.9922"
          y="1008.1973"
-         id="tspan663"><tspan
+         id="tspan698"><tspan
            style="-inkscape-font-specification:'Open Sans, Normal';fill:#000000;stroke:none"
-           id="tspan662">and I believe this would be a mutually </tspan></tspan><tspan
+           id="tspan697">and I believe this would be a mutually </tspan></tspan><tspan
          x="5013.9922"
          y="1035.3973"
-         id="tspan665"><tspan
+         id="tspan700"><tspan
            style="-inkscape-font-specification:'Open Sans, Normal';fill:#000000;stroke:none"
-           id="tspan664">beneficial partnership.&quot; </tspan></tspan></text>
+           id="tspan699">beneficial partnership.&quot; </tspan></tspan></text>
     <g
        id="g323"
        transform="translate(769.99998,80)">
@@ -4930,5 +4944,900 @@
          d="m 974.89926,538.73001 h 50.87304"
          id="path332" />
     </g>
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linejoin:bevel;stroke-opacity:1"
+       id="rect333"
+       width="354"
+       height="48"
+       x="4629.4927"
+       y="93.480042"
+       ry="12.088636"
+       rx="12.088636" />
+    <text
+       xml:space="preserve"
+       style="font-size:16px;line-height:1.7;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#e1e3e3;fill-opacity:1;stroke:#000000;stroke-linejoin:bevel;stroke-opacity:1"
+       x="4768.1646"
+       y="123.11285"
+       id="text333"><tspan
+         sodipodi:role="line"
+         id="tspan333"
+         x="4768.1646"
+         y="123.11285"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;fill:#000000;stroke:none">AI Context</tspan></text>
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1"
+       d="m 5388.9927,72.5 h 375"
+       id="path334" />
+    <text
+       xml:space="preserve"
+       style="font-size:28px;line-height:1.7;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#e1e3e3;fill-opacity:1;stroke:#000000;stroke-linejoin:bevel;stroke-opacity:1"
+       x="5575.1392"
+       y="46.511154"
+       id="text334"><tspan
+         sodipodi:role="line"
+         x="5575.1392"
+         y="46.511154"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;text-anchor:middle;fill:#000000;stroke:none"
+         id="tspan334">Collections</tspan></text>
+    <g
+       id="g338"
+       transform="translate(1155)">
+      <g
+         id="g336"
+         transform="translate(4217.8036,-448.08777)">
+        <rect
+           style="fill:#e1e3e3;fill-opacity:1;stroke:#000000;stroke-width:0.999998;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1"
+           id="rect334"
+           width="39.212868"
+           height="39.022308"
+           x="27.192808"
+           y="464.58777" />
+        <path
+           style="fill:#000000;stroke:#000000;stroke-width:0.999998;stroke-linejoin:bevel"
+           d="M 27.192807,464.58778 66.40568,503.61009"
+           id="path335" />
+        <path
+           style="fill:#000000;stroke:#000000;stroke-width:0.999998;stroke-linejoin:bevel"
+           d="M 66.40568,464.58778 27.192807,503.61009"
+           id="path336" />
+      </g>
+      <g
+         id="g337"
+         transform="translate(4223.7231,-578.25441)">
+        <rect
+           style="fill:#e1e3e3;fill-opacity:1;stroke:none;stroke-width:0.999999;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1"
+           id="rect336"
+           width="28.584"
+           height="17.695002"
+           x="26.587709"
+           y="605.04926" />
+        <text
+           xml:space="preserve"
+           style="font-size:10px;line-height:1.7;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1"
+           x="30.611084"
+           y="617.64673"
+           id="text336"><tspan
+             sodipodi:role="line"
+             id="tspan336"
+             x="30.611084"
+             y="617.64673"
+             style="font-size:10px;letter-spacing:0px;fill:#000000;stroke:none">logo</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g341"
+       transform="translate(1155)">
+      <g
+         id="g339"
+         transform="translate(4524.8036,-448.08777)">
+        <rect
+           style="fill:#e1e3e3;fill-opacity:1;stroke:#000000;stroke-width:0.999998;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1"
+           id="rect338"
+           width="39.212868"
+           height="39.022308"
+           x="27.192808"
+           y="464.58777" />
+        <path
+           style="fill:#000000;stroke:#000000;stroke-width:0.999998;stroke-linejoin:bevel"
+           d="M 27.192807,464.58778 66.40568,503.61009"
+           id="path338" />
+        <path
+           style="fill:#000000;stroke:#000000;stroke-width:0.999998;stroke-linejoin:bevel"
+           d="M 66.40568,464.58778 27.192807,503.61009"
+           id="path339" />
+      </g>
+      <g
+         id="g340"
+         transform="translate(4527.3026,-578.25441)">
+        <rect
+           style="fill:#e1e3e3;fill-opacity:1;stroke:none;stroke-width:0.999999;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1"
+           id="rect339"
+           width="35.424999"
+           height="17.695002"
+           x="26.587709"
+           y="605.04926" />
+        <text
+           xml:space="preserve"
+           style="font-size:10px;line-height:1.7;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1"
+           x="30.611084"
+           y="617.64673"
+           id="text339"><tspan
+             sodipodi:role="line"
+             id="tspan339"
+             x="30.611084"
+             y="617.64673"
+             style="font-size:10px;letter-spacing:0px;fill:#000000;stroke:none">menu</tspan></text>
+      </g>
+    </g>
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1"
+       d="m 5773.9927,72.5 h 375"
+       id="path342" />
+    <text
+       xml:space="preserve"
+       style="font-size:28px;line-height:1.7;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#e1e3e3;fill-opacity:1;stroke:#000000;stroke-linejoin:bevel;stroke-opacity:1"
+       x="5960.1392"
+       y="46.511154"
+       id="text342"><tspan
+         sodipodi:role="line"
+         x="5960.1392"
+         y="46.511154"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;text-anchor:middle;fill:#000000;stroke:none"
+         id="tspan342">Questions</tspan></text>
+    <g
+       id="g346"
+       transform="translate(1540)">
+      <g
+         id="g344"
+         transform="translate(4217.8036,-448.08777)">
+        <rect
+           style="fill:#e1e3e3;fill-opacity:1;stroke:#000000;stroke-width:0.999998;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1"
+           id="rect342"
+           width="39.212868"
+           height="39.022308"
+           x="27.192808"
+           y="464.58777" />
+        <path
+           style="fill:#000000;stroke:#000000;stroke-width:0.999998;stroke-linejoin:bevel"
+           d="M 27.192807,464.58778 66.40568,503.61009"
+           id="path343" />
+        <path
+           style="fill:#000000;stroke:#000000;stroke-width:0.999998;stroke-linejoin:bevel"
+           d="M 66.40568,464.58778 27.192807,503.61009"
+           id="path344" />
+      </g>
+      <g
+         id="g345"
+         transform="translate(4223.7231,-578.25441)">
+        <rect
+           style="fill:#e1e3e3;fill-opacity:1;stroke:none;stroke-width:0.999999;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1"
+           id="rect344"
+           width="28.584"
+           height="17.695002"
+           x="26.587709"
+           y="605.04926" />
+        <text
+           xml:space="preserve"
+           style="font-size:10px;line-height:1.7;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1"
+           x="30.611084"
+           y="617.64673"
+           id="text344"><tspan
+             sodipodi:role="line"
+             id="tspan344"
+             x="30.611084"
+             y="617.64673"
+             style="font-size:10px;letter-spacing:0px;fill:#000000;stroke:none">logo</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g349"
+       transform="translate(1540)">
+      <g
+         id="g347"
+         transform="translate(4524.8036,-448.08777)">
+        <rect
+           style="fill:#e1e3e3;fill-opacity:1;stroke:#000000;stroke-width:0.999998;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1"
+           id="rect346"
+           width="39.212868"
+           height="39.022308"
+           x="27.192808"
+           y="464.58777" />
+        <path
+           style="fill:#000000;stroke:#000000;stroke-width:0.999998;stroke-linejoin:bevel"
+           d="M 27.192807,464.58778 66.40568,503.61009"
+           id="path346" />
+        <path
+           style="fill:#000000;stroke:#000000;stroke-width:0.999998;stroke-linejoin:bevel"
+           d="M 66.40568,464.58778 27.192807,503.61009"
+           id="path347" />
+      </g>
+      <g
+         id="g348"
+         transform="translate(4527.3026,-578.25441)">
+        <rect
+           style="fill:#e1e3e3;fill-opacity:1;stroke:none;stroke-width:0.999999;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1"
+           id="rect347"
+           width="35.424999"
+           height="17.695002"
+           x="26.587709"
+           y="605.04926" />
+        <text
+           xml:space="preserve"
+           style="font-size:10px;line-height:1.7;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1"
+           x="30.611084"
+           y="617.64673"
+           id="text347"><tspan
+             sodipodi:role="line"
+             id="tspan347"
+             x="30.611084"
+             y="617.64673"
+             style="font-size:10px;letter-spacing:0px;fill:#000000;stroke:none">menu</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g365"
+       transform="translate(1547.6021,30)">
+      <path
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-dasharray:1, 3;stroke-dashoffset:0"
+         d="M 3861.4989,143.59638 V 166.7663"
+         id="path350" />
+      <path
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-dasharray:1, 3;stroke-dashoffset:0"
+         d="m 3860.9988,167.01814 h 27.1995"
+         id="path351" />
+      <text
+         xml:space="preserve"
+         style="font-size:16px;line-height:1.7;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#e1e3e3;fill-opacity:1;stroke:#000000;stroke-linejoin:bevel;stroke-opacity:1"
+         x="3923.4382"
+         y="170.88533"
+         id="text351"><tspan
+           sodipodi:role="line"
+           id="tspan351"
+           x="3923.4382"
+           y="170.88533"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;fill:#000000;stroke:none">Collection 1</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:16px;line-height:1.7;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#e1e3e3;fill-opacity:1;stroke:#000000;stroke-linejoin:bevel;stroke-opacity:1"
+         x="3967.748"
+         y="212.14705"
+         id="text352"><tspan
+           sodipodi:role="line"
+           id="tspan352"
+           x="3967.748"
+           y="212.14705"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;fill:#000000;stroke:none">Collection 2</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:16px;line-height:1.7;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#e1e3e3;fill-opacity:1;stroke:#000000;stroke-linejoin:bevel;stroke-opacity:1"
+         x="4011.0657"
+         y="252.9001"
+         id="text353"><tspan
+           sodipodi:role="line"
+           id="tspan353"
+           x="4011.0657"
+           y="252.9001"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;fill:#000000;stroke:none">Collection 3</tspan></text>
+      <path
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-dasharray:1, 3;stroke-dashoffset:0"
+         d="m 3905.4989,184.60377 v 23.16992"
+         id="path353" />
+      <path
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-dasharray:1, 3;stroke-dashoffset:0"
+         d="m 3904.9988,208.02553 h 27.1995"
+         id="path354" />
+      <path
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-dasharray:1, 3;stroke-dashoffset:0"
+         d="m 3949.4989,225.61116 v 23.16992"
+         id="path355" />
+      <path
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-dasharray:1, 3;stroke-dashoffset:0"
+         d="m 3948.9988,249.03292 h 27.1995"
+         id="path356" />
+      <g
+         id="g358"
+         transform="translate(3867.5055,-222.32467)">
+        <rect
+           style="fill:#e1e3e3;fill-opacity:1;stroke:#000000;stroke-width:0.999997;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1"
+           id="rect356"
+           width="19.216543"
+           height="18.866657"
+           x="27.19281"
+           y="379.90948" />
+        <path
+           style="fill:#000000;stroke:#000000;stroke-width:0.999997;stroke-linejoin:bevel"
+           d="m 27.19281,379.90949 19.216546,18.86666"
+           id="path357" />
+        <path
+           style="fill:#000000;stroke:#000000;stroke-width:0.999997;stroke-linejoin:bevel"
+           d="M 46.409356,379.90949 27.19281,398.77615"
+           id="path358" />
+      </g>
+      <g
+         id="g360"
+         transform="translate(3911.8306,-181.31728)">
+        <rect
+           style="fill:#e1e3e3;fill-opacity:1;stroke:#000000;stroke-width:0.999997;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1"
+           id="rect358"
+           width="19.216543"
+           height="18.866657"
+           x="27.19281"
+           y="379.90948" />
+        <path
+           style="fill:#000000;stroke:#000000;stroke-width:0.999997;stroke-linejoin:bevel"
+           d="m 27.19281,379.90949 19.216546,18.86666"
+           id="path359" />
+        <path
+           style="fill:#000000;stroke:#000000;stroke-width:0.999997;stroke-linejoin:bevel"
+           d="M 46.409356,379.90949 27.19281,398.77615"
+           id="path360" />
+      </g>
+      <g
+         id="g362"
+         transform="translate(3954.6446,-140.30989)">
+        <rect
+           style="fill:#e1e3e3;fill-opacity:1;stroke:#000000;stroke-width:0.999997;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1"
+           id="rect360"
+           width="19.216543"
+           height="18.866657"
+           x="27.19281"
+           y="379.90948" />
+        <path
+           style="fill:#000000;stroke:#000000;stroke-width:0.999997;stroke-linejoin:bevel"
+           d="m 27.19281,379.90949 19.216546,18.86666"
+           id="path361" />
+        <path
+           style="fill:#000000;stroke:#000000;stroke-width:0.999997;stroke-linejoin:bevel"
+           d="M 46.409356,379.90949 27.19281,398.77615"
+           id="path362" />
+      </g>
+      <g
+         id="g364"
+         transform="translate(3824.6978,-262.32467)">
+        <rect
+           style="fill:#e1e3e3;fill-opacity:1;stroke:#000000;stroke-width:0.999997;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1"
+           id="rect362"
+           width="19.216543"
+           height="18.866657"
+           x="27.19281"
+           y="379.90948" />
+        <path
+           style="fill:#000000;stroke:#000000;stroke-width:0.999997;stroke-linejoin:bevel"
+           d="m 27.19281,379.90949 19.216546,18.86666"
+           id="path363" />
+        <path
+           style="fill:#000000;stroke:#000000;stroke-width:0.999997;stroke-linejoin:bevel"
+           d="M 46.409356,379.90949 27.19281,398.77615"
+           id="path364" />
+      </g>
+    </g>
+    <g
+       id="g366"
+       transform="matrix(0.82085222,0,0,1,5367.8396,-598.68706)"
+       style="stroke-width:1.10374">
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.10374;stroke-linejoin:bevel;stroke-opacity:1"
+         id="rect365"
+         width="354"
+         height="32"
+         x="38.53257"
+         y="693.18805" />
+      <text
+         xml:space="preserve"
+         style="font-size:16px;line-height:1.7;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#bfc8ca;fill-opacity:1;stroke:#000000;stroke-width:1.10374;stroke-linejoin:bevel;stroke-opacity:1"
+         x="52.47007"
+         y="714.82086"
+         id="text365"><tspan
+           sodipodi:role="line"
+           x="52.47007"
+           y="714.82086"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;fill:#899294;stroke:none;stroke-width:1.10374"
+           id="tspan365">Search collections</tspan></text>
+    </g>
+    <g
+       id="g370"
+       transform="translate(5436.3808,-545.88652)">
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linejoin:bevel;stroke-opacity:1"
+         id="rect370"
+         width="50.405998"
+         height="48"
+         x="266.70584"
+         y="632.38751"
+         ry="12.088636"
+         rx="12.088636" />
+      <text
+         xml:space="preserve"
+         style="font-size:16px;line-height:1.7;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#e1e3e3;fill-opacity:1;stroke:#000000;stroke-linejoin:bevel;stroke-opacity:1"
+         x="280.64334"
+         y="662.02032"
+         id="text370"><tspan
+           sodipodi:role="line"
+           id="tspan370"
+           x="280.64334"
+           y="662.02032"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;fill:#000000;stroke:none">Go</tspan></text>
+    </g>
+    <g
+       id="g375"
+       transform="translate(0,60)">
+      <rect
+         style="fill:none;stroke:#b1cbd0;stroke-width:0.999993"
+         id="rect371"
+         width="321"
+         height="136.48834"
+         x="5817.9927"
+         y="163.14458" />
+      <text
+         xml:space="preserve"
+         style="font-size:16px;line-height:1.7;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;white-space:pre-wrap;shape-inside:url(#rect371);display:inline;fill:#e1e3e3;fill-opacity:1;stroke:#000000;stroke-linejoin:bevel;stroke-opacity:1"
+         x="450.27939"
+         y="764.86981"
+         id="text372"
+         transform="translate(0,-2)"><tspan
+           x="5817.9922"
+           y="181.30244"
+           id="tspan702"><tspan
+             style="font-weight:bold"
+             id="tspan701">What is the reason you are applying for </tspan></tspan><tspan
+           x="5817.9922"
+           y="208.50243"
+           id="tspan705"><tspan
+             style="font-weight:bold"
+             id="tspan703">this job?</tspan><tspan
+             style="-inkscape-font-specification:'Open Sans, Normal';fill:#000000;stroke:none"
+             id="tspan704">
+</tspan></tspan><tspan
+           x="5817.9922"
+           y="235.70243"
+           id="tspan707"><tspan
+             style="-inkscape-font-specification:'Open Sans, Normal';fill:#000000;stroke:none"
+             id="tspan706">I am excited about this opportunity at </tspan></tspan><tspan
+           x="5817.9922"
+           y="262.90243"
+           id="tspan709"><tspan
+             style="-inkscape-font-specification:'Open Sans, Normal';fill:#000000;stroke:none"
+             id="tspan708">[Company Name] because it represents a </tspan></tspan><tspan
+           x="5817.9922"
+           y="290.10243"
+           id="tspan711"><tspan
+             style="-inkscape-font-specification:'Open Sans, Normal';fill:#000000;stroke:none"
+             id="tspan710">perfect alignment between my ...</tspan></tspan></text>
+      <g
+         id="g372"
+         transform="translate(5166.9493,-446.57667)">
+        <path
+           id="path372"
+           style="fill:none;stroke:#000000;stroke-width:2;stroke-linejoin:miter;stroke-dasharray:none"
+           d="m 639.33594,616.71297 -12.00942,9.30141 -3.74076,-4.82983"
+           sodipodi:nodetypes="ccc" />
+        <rect
+           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linejoin:bevel;stroke-opacity:1"
+           id="rect372"
+           width="23"
+           height="23.000002"
+           x="619.54333"
+           y="609.72125"
+           rx="0"
+           ry="0" />
+      </g>
+    </g>
+    <g
+       id="g373"
+       transform="matrix(0.82085222,0,0,1,5752.8279,-598.68706)"
+       style="stroke-width:1.10374">
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.10374;stroke-linejoin:bevel;stroke-opacity:1"
+         id="rect373"
+         width="354"
+         height="32"
+         x="38.53257"
+         y="693.18805" />
+      <text
+         xml:space="preserve"
+         style="font-size:16px;line-height:1.7;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#bfc8ca;fill-opacity:1;stroke:#000000;stroke-width:1.10374;stroke-linejoin:bevel;stroke-opacity:1"
+         x="52.47007"
+         y="714.82086"
+         id="text373"><tspan
+           sodipodi:role="line"
+           x="52.47007"
+           y="714.82086"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;fill:#899294;stroke:none;stroke-width:1.10374"
+           id="tspan373">Search questions</tspan></text>
+    </g>
+    <g
+       id="g374"
+       transform="translate(5821.3691,-545.88652)">
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linejoin:bevel;stroke-opacity:1"
+         id="rect374"
+         width="50.405998"
+         height="48"
+         x="266.70584"
+         y="632.38751"
+         ry="12.088636"
+         rx="12.088636" />
+      <text
+         xml:space="preserve"
+         style="font-size:16px;line-height:1.7;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#e1e3e3;fill-opacity:1;stroke:#000000;stroke-linejoin:bevel;stroke-opacity:1"
+         x="280.64334"
+         y="662.02032"
+         id="text374"><tspan
+           sodipodi:role="line"
+           id="tspan374"
+           x="280.64334"
+           y="662.02032"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;fill:#000000;stroke:none">Go</tspan></text>
+    </g>
+    <g
+       id="g377"
+       transform="translate(0,220)">
+      <rect
+         style="fill:none;stroke:#b1cbd0;stroke-width:0.999993"
+         id="rect375"
+         width="321"
+         height="136.48834"
+         x="5817.9927"
+         y="163.14458" />
+      <text
+         xml:space="preserve"
+         style="font-size:16px;line-height:1.7;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;white-space:pre-wrap;shape-inside:url(#rect375);display:inline;fill:#e1e3e3;fill-opacity:1;stroke:#000000;stroke-linejoin:bevel;stroke-opacity:1"
+         x="450.27939"
+         y="764.86981"
+         id="text376"
+         transform="translate(0,-2)"><tspan
+           x="5817.9922"
+           y="181.30244"
+           id="tspan713"><tspan
+             style="font-weight:bold"
+             id="tspan712">What is the reason you are applying for </tspan></tspan><tspan
+           x="5817.9922"
+           y="208.50243"
+           id="tspan716"><tspan
+             style="font-weight:bold"
+             id="tspan714">this job?</tspan><tspan
+             style="-inkscape-font-specification:'Open Sans, Normal';fill:#000000;stroke:none"
+             id="tspan715">
+</tspan></tspan><tspan
+           x="5817.9922"
+           y="235.70243"
+           id="tspan718"><tspan
+             style="-inkscape-font-specification:'Open Sans, Normal';fill:#000000;stroke:none"
+             id="tspan717">I am excited about this opportunity at </tspan></tspan><tspan
+           x="5817.9922"
+           y="262.90243"
+           id="tspan720"><tspan
+             style="-inkscape-font-specification:'Open Sans, Normal';fill:#000000;stroke:none"
+             id="tspan719">[Company Name] because it represents a </tspan></tspan><tspan
+           x="5817.9922"
+           y="290.10243"
+           id="tspan722"><tspan
+             style="-inkscape-font-specification:'Open Sans, Normal';fill:#000000;stroke:none"
+             id="tspan721">perfect alignment between my ...</tspan></tspan></text>
+      <g
+         id="g376"
+         transform="translate(5166.9493,-446.57667)">
+        <path
+           id="path376"
+           style="fill:none;stroke:#000000;stroke-width:2;stroke-linejoin:miter;stroke-dasharray:none"
+           d="m 639.33594,616.71297 -12.00942,9.30141 -3.74076,-4.82983"
+           sodipodi:nodetypes="ccc" />
+        <rect
+           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linejoin:bevel;stroke-opacity:1"
+           id="rect376"
+           width="23"
+           height="23.000002"
+           x="619.54333"
+           y="609.72125"
+           rx="0"
+           ry="0" />
+      </g>
+    </g>
+    <g
+       id="g379"
+       transform="translate(0,380)">
+      <rect
+         style="fill:none;stroke:#b1cbd0;stroke-width:0.999993"
+         id="rect377"
+         width="321"
+         height="136.48834"
+         x="5817.9927"
+         y="163.14458" />
+      <text
+         xml:space="preserve"
+         style="font-size:16px;line-height:1.7;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;white-space:pre-wrap;shape-inside:url(#rect377);display:inline;fill:#e1e3e3;fill-opacity:1;stroke:#000000;stroke-linejoin:bevel;stroke-opacity:1"
+         x="450.27939"
+         y="764.86981"
+         id="text378"
+         transform="translate(0,-2)"><tspan
+           x="5817.9922"
+           y="181.30244"
+           id="tspan724"><tspan
+             style="font-weight:bold"
+             id="tspan723">What is the reason you are applying for </tspan></tspan><tspan
+           x="5817.9922"
+           y="208.50243"
+           id="tspan727"><tspan
+             style="font-weight:bold"
+             id="tspan725">this job?</tspan><tspan
+             style="-inkscape-font-specification:'Open Sans, Normal';fill:#000000;stroke:none"
+             id="tspan726">
+</tspan></tspan><tspan
+           x="5817.9922"
+           y="235.70243"
+           id="tspan729"><tspan
+             style="-inkscape-font-specification:'Open Sans, Normal';fill:#000000;stroke:none"
+             id="tspan728">I am excited about this opportunity at </tspan></tspan><tspan
+           x="5817.9922"
+           y="262.90243"
+           id="tspan731"><tspan
+             style="-inkscape-font-specification:'Open Sans, Normal';fill:#000000;stroke:none"
+             id="tspan730">[Company Name] because it represents a </tspan></tspan><tspan
+           x="5817.9922"
+           y="290.10243"
+           id="tspan733"><tspan
+             style="-inkscape-font-specification:'Open Sans, Normal';fill:#000000;stroke:none"
+             id="tspan732">perfect alignment between my ...</tspan></tspan></text>
+      <g
+         id="g378"
+         transform="translate(5166.9493,-446.57667)">
+        <path
+           id="path378"
+           style="fill:none;stroke:#000000;stroke-width:2;stroke-linejoin:miter;stroke-dasharray:none"
+           d="m 639.33594,616.71297 -12.00942,9.30141 -3.74076,-4.82983"
+           sodipodi:nodetypes="ccc" />
+        <rect
+           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linejoin:bevel;stroke-opacity:1"
+           id="rect378"
+           width="23"
+           height="23.000002"
+           x="619.54333"
+           y="609.72125"
+           rx="0"
+           ry="0" />
+      </g>
+    </g>
+    <g
+       id="g381"
+       transform="translate(0,540)">
+      <rect
+         style="fill:none;stroke:#b1cbd0;stroke-width:0.999993"
+         id="rect379"
+         width="321"
+         height="136.48834"
+         x="5817.9927"
+         y="163.14458" />
+      <text
+         xml:space="preserve"
+         style="font-size:16px;line-height:1.7;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;white-space:pre-wrap;shape-inside:url(#rect379);display:inline;fill:#e1e3e3;fill-opacity:1;stroke:#000000;stroke-linejoin:bevel;stroke-opacity:1"
+         x="450.27939"
+         y="764.86981"
+         id="text380"
+         transform="translate(0,-2)"><tspan
+           x="5817.9922"
+           y="181.30244"
+           id="tspan735"><tspan
+             style="font-weight:bold"
+             id="tspan734">What is the reason you are applying for </tspan></tspan><tspan
+           x="5817.9922"
+           y="208.50243"
+           id="tspan738"><tspan
+             style="font-weight:bold"
+             id="tspan736">this job?</tspan><tspan
+             style="-inkscape-font-specification:'Open Sans, Normal';fill:#000000;stroke:none"
+             id="tspan737">
+</tspan></tspan><tspan
+           x="5817.9922"
+           y="235.70243"
+           id="tspan740"><tspan
+             style="-inkscape-font-specification:'Open Sans, Normal';fill:#000000;stroke:none"
+             id="tspan739">I am excited about this opportunity at </tspan></tspan><tspan
+           x="5817.9922"
+           y="262.90243"
+           id="tspan742"><tspan
+             style="-inkscape-font-specification:'Open Sans, Normal';fill:#000000;stroke:none"
+             id="tspan741">[Company Name] because it represents a </tspan></tspan><tspan
+           x="5817.9922"
+           y="290.10243"
+           id="tspan744"><tspan
+             style="-inkscape-font-specification:'Open Sans, Normal';fill:#000000;stroke:none"
+             id="tspan743">perfect alignment between my ...</tspan></tspan></text>
+      <g
+         id="g380"
+         transform="translate(5166.9493,-446.57667)">
+        <path
+           id="path380"
+           style="fill:none;stroke:#000000;stroke-width:2;stroke-linejoin:miter;stroke-dasharray:none"
+           d="m 639.33594,616.71297 -12.00942,9.30141 -3.74076,-4.82983"
+           sodipodi:nodetypes="ccc" />
+        <rect
+           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linejoin:bevel;stroke-opacity:1"
+           id="rect380"
+           width="23"
+           height="23.000002"
+           x="619.54333"
+           y="609.72125"
+           rx="0"
+           ry="0" />
+      </g>
+    </g>
+    <g
+       id="g386"
+       transform="translate(1541.6751,142.81163)">
+      <g
+         id="g384"
+         transform="translate(4524.8036,-448.08777)">
+        <rect
+           style="fill:#e1e3e3;fill-opacity:1;stroke:#000000;stroke-width:0.999998;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1"
+           id="rect383"
+           width="39.212868"
+           height="39.022308"
+           x="27.192808"
+           y="464.58777" />
+        <path
+           style="fill:#000000;stroke:#000000;stroke-width:0.999998;stroke-linejoin:bevel"
+           d="M 27.192807,464.58778 66.40568,503.61009"
+           id="path383" />
+        <path
+           style="fill:#000000;stroke:#000000;stroke-width:0.999998;stroke-linejoin:bevel"
+           d="M 66.40568,464.58778 27.192807,503.61009"
+           id="path384" />
+      </g>
+      <g
+         id="g385"
+         transform="translate(4517.0096,-578.25441)">
+        <rect
+           style="fill:#e1e3e3;fill-opacity:1;stroke:none;stroke-width:0.999999;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1"
+           id="rect384"
+           width="56.011002"
+           height="17.695002"
+           x="26.587709"
+           y="605.04926" />
+        <text
+           xml:space="preserve"
+           style="font-size:10px;line-height:1.7;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1"
+           x="30.611084"
+           y="617.64673"
+           id="text384"><tspan
+             sodipodi:role="line"
+             id="tspan384"
+             x="30.611084"
+             y="617.64673"
+             style="font-size:10px;letter-spacing:0px;fill:#000000;stroke:none">sub-menu</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g387"
+       transform="translate(5517.7986,-477.56473)">
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linejoin:bevel;stroke-opacity:1"
+         id="rect386"
+         width="158.578"
+         height="48"
+         x="266.70584"
+         y="632.38751"
+         ry="12.088636"
+         rx="12.088636" />
+      <text
+         xml:space="preserve"
+         style="font-size:16px;line-height:1.7;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#e1e3e3;fill-opacity:1;stroke:#000000;stroke-linejoin:bevel;stroke-opacity:1"
+         x="280.64334"
+         y="662.02032"
+         id="text386"><tspan
+           sodipodi:role="line"
+           id="tspan386"
+           x="280.64334"
+           y="662.02032"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;fill:#000000;stroke:none">Add to AI context</tspan></text>
+    </g>
+    <g
+       id="g388"
+       transform="translate(5302.7981,-200.41102)">
+      <rect
+         style="fill:#e1e3e3;fill-opacity:1;stroke:#000000;stroke-width:0.999997;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1"
+         id="rect387"
+         width="23.223808"
+         height="22.506338"
+         x="27.19281"
+         y="420.42664" />
+      <path
+         style="fill:#000000;stroke:#000000;stroke-width:0.999997;stroke-linejoin:bevel"
+         d="m 27.19281,420.42663 23.22381,22.50634"
+         id="path387" />
+      <path
+         style="fill:#000000;stroke:#000000;stroke-width:0.999997;stroke-linejoin:bevel"
+         d="M 50.41662,420.42663 27.19281,442.93297"
+         id="path388" />
+    </g>
+    <g
+       id="g391"
+       transform="translate(5279.0096,-382.62797)">
+      <rect
+         style="fill:#e1e3e3;fill-opacity:1;stroke:none;stroke-width:0.999992;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1"
+         id="rect390"
+         width="31.377001"
+         height="17.695002"
+         x="26.587709"
+         y="605.04926" />
+      <text
+         xml:space="preserve"
+         style="font-size:10px;line-height:1.7;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1"
+         x="30.611084"
+         y="617.64673"
+         id="text390"><tspan
+           sodipodi:role="line"
+           id="tspan390"
+           x="30.611084"
+           y="617.64673"
+           style="font-size:10px;letter-spacing:0px;fill:#000000;stroke:none">copy</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:16px;line-height:1.7;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#e1e3e3;fill-opacity:1;stroke:#000000;stroke-linejoin:bevel;stroke-opacity:1"
+       x="34.185287"
+       y="1400.3542"
+       id="text392"><tspan
+         sodipodi:role="line"
+         x="34.185287"
+         y="1400.3542"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;fill:#000000;stroke:none"
+         id="tspan393">Fine-grained control over what content is</tspan><tspan
+         sodipodi:role="line"
+         x="34.185287"
+         y="1427.5542"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;fill:#000000;stroke:none"
+         id="tspan394">used for resource augmented generation</tspan><tspan
+         sodipodi:role="line"
+         x="34.185287"
+         y="1454.7543"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;fill:#000000;stroke:none"
+         id="tspan395">(RAG). View  and filter your retrieved</tspan><tspan
+         sodipodi:role="line"
+         x="34.185287"
+         y="1481.9542"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;fill:#000000;stroke:none"
+         id="tspan396">answers before they are fed into your AI</tspan><tspan
+         sodipodi:role="line"
+         x="34.185287"
+         y="1509.1543"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;fill:#000000;stroke:none"
+         id="tspan398">for generation.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:16px;line-height:1.7;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#e1e3e3;fill-opacity:1;stroke:#000000;stroke-linejoin:bevel;stroke-opacity:1"
+       x="34.185287"
+       y="1580.3542"
+       id="text403"><tspan
+         sodipodi:role="line"
+         x="34.185287"
+         y="1580.3542"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;fill:#000000;stroke:none"
+         id="tspan403">Track applied to jobs:</tspan><tspan
+         sodipodi:role="line"
+         x="34.185287"
+         y="1607.5542"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;fill:#000000;stroke:none"
+         id="tspan407">- url, description</tspan><tspan
+         sodipodi:role="line"
+         x="34.185287"
+         y="1634.7543"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;fill:#000000;stroke:none"
+         id="tspan408">- Q&amp;As</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:16px;line-height:1.7;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#e1e3e3;fill-opacity:1;stroke:#000000;stroke-linejoin:bevel;stroke-opacity:1"
+       x="34.185287"
+       y="1680.3542"
+       id="text411"><tspan
+         sodipodi:role="line"
+         x="34.185287"
+         y="1680.3542"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;fill:#000000;stroke:none"
+         id="tspan411">Add job and select to add it to the AI</tspan><tspan
+         sodipodi:role="line"
+         x="34.185287"
+         y="1707.5542"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;fill:#000000;stroke:none"
+         id="tspan413">context</tspan></text>
   </g>
 </svg>

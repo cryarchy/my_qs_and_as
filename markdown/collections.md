@@ -1,4 +1,4 @@
-# All Q&As
+# Collections
 
 ## Index
 
@@ -10,4 +10,4 @@
 
 ## Low fidelity design
 
-![All Q&As page design](../wireframes/all_qas.png)
+![Collections page design](../wireframes/all_qas.png)
